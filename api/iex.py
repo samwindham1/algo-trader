@@ -6,7 +6,7 @@ from urllib.parse import urlparse
 IEX_TOKEN = ''
 API_ENDPOINT = ''
 
-config_path = os.path.join(os.path.dirname(__file__), '../../config.local.json')
+config_path = os.path.join(os.path.dirname(__file__), '../config.local.json')
 with open(config_path) as config_file:
     config = json.load(config_file)
     IEX_TOKEN = config['iex-cloud-api-token-test']
