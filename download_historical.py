@@ -20,3 +20,4 @@ tickers = pd.read_csv(ticker_csv_path, header=None)[1]
 
 save_all_historical(tickers)
 save_ticker_historical('SPY')
+save_ticker_historical('RSP')
