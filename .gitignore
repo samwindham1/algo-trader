@@ -1,3 +1,4 @@
 config.local.json
 __pycache__
 data/price/
+tools/log
