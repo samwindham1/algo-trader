@@ -5,7 +5,9 @@ import pandas_datareader.data as web
 from concurrent import futures
 from datetime import datetime
 
-from tickers import SpyTickers
+from data.spy.tickers import SpyTickers
 
-# get tickers from wikipedia
-spyTickers = SpyTickers().download()
+
+if __name__ == '__main__':
+    # get tickers from wikipedia
+    spyTickers = SpyTickers().download()
