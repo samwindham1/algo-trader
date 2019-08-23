@@ -49,3 +49,8 @@ def tail(count=5):
         all_read_text = ''.join(reversed(blocks))
         for line in all_read_text.splitlines()[-total_lines_wanted:]:
             print(line)
+
+
+if __name__ == '__main__':
+    # do nothing
+    print("log imported")

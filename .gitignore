@@ -1,5 +1,5 @@
 config.local.json
 __pycache__
 data/price/
-tools/log
+tools/log/log
 .ipynb_checkpoints

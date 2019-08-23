@@ -4,7 +4,7 @@ from datetime import date, datetime, timedelta
 import dateutil.parser
 
 from api import yahoo
-from tools import log
+from tools.log import log
 
 
 def get_last_date(file_path):
@@ -17,7 +17,7 @@ def get_last_date(file_path):
 
 
 def update_ticker(ticker):
-    file_path = os.path.join(os.path.dirname(__file__), 'data/price/{ticker}.csv'.format(ticker=ticker))
+    file_path = os.path.join(os.path.dirname(__file__), '../data/price/{ticker}.csv'.format(ticker=ticker))
     last_date = None
     try:
         last_date = get_last_date(file_path)
@@ -46,9 +46,11 @@ def update_all(tickers):
         update_ticker(ticker)
 
 
-ticker_csv_path = os.path.join(os.path.dirname(__file__), 'data/spy/tickers.csv')
-tickers = pd.read_csv(ticker_csv_path, header=None)[1]
+if __name__ == '__main__':
+    ticker_csv_path = os.path.join(os.path.dirname(__file__), '../data/spy/tickers.csv')
+    tickers = pd.read_csv(ticker_csv_path, header=None)[1]
 
-update_all(tickers)
-update_ticker('SPY')
-update_ticker('RSP')
+    update_all(tickers)
+    update_ticker('SPY')  # S&P index
+    update_ticker('RSP')  # S&P index (equal-weighted)
+    update_ticker('%5ETNX')  # 10y treasury bond yield
