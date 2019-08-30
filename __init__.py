@@ -1,1 +1,1 @@
-from . import finance, data, api, tools
+from . import finance, data, api, tools, algos
