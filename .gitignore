@@ -3,3 +3,5 @@ __pycache__
 data/price/
 tools/log/log
 .ipynb_checkpoints
+.vscode
+.pylintrc
