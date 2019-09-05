@@ -5,7 +5,7 @@ import importlib
 
 # Import the backtrader platform
 import backtrader as bt
-from .commission import IBCommision
+from .util.commission import IBCommision
 
 
 def run_strategy(strategy, ticker=None, start=1900, end=2100,
