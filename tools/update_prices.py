@@ -1,7 +1,6 @@
 import os
-import pandas as pd
+import argparse
 from datetime import date, datetime, timedelta
-import dateutil.parser
 
 from api import yahoo
 from tools.log import log
@@ -31,7 +30,7 @@ def update_ticker(ticker):
     if last_date == date.today() - timedelta(days=1):
         return
 
-    if last_date != None:
+    if last_date is not None:
         historical = yahoo.get_daily(ticker, last_date)
         historical = historical[historical.index > last_date.strftime('%Y-%m-%d')]
         historical.to_csv(file_path, mode='a', header=False)
@@ -47,10 +46,15 @@ def update_all(tickers):
 
 
 if __name__ == '__main__':
-    ticker_csv_path = os.path.join(os.path.dirname(__file__), '../data/spy/tickers.csv')
-    tickers = pd.read_csv(ticker_csv_path, header=None)[1]
+    PARSER = argparse.ArgumentParser()
+    PARSER.add_argument('-t', '--ticker', nargs='+')
+    ARGS = PARSER.parse_args()
 
-    update_all(tickers)
-    update_ticker('SPY')  # S&P index
-    update_ticker('RSP')  # S&P index (equal-weighted)
-    update_ticker('%5ETNX')  # 10y treasury bond yield
+    if ARGS.ticker:
+        update_all(ARGS.ticker)
+    else:
+        DATA_PATH = os.path.join(os.path.dirname(__file__), '../data/price/')
+        FILE_LIST = os.listdir(DATA_PATH)
+        TICKERS = [f[:-4] for f in FILE_LIST if os.path.isfile(os.path.join(DATA_PATH, f))]
+
+        update_all(TICKERS)
