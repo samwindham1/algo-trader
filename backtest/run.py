@@ -5,43 +5,53 @@ import importlib
 
 # Import the backtrader platform
 import backtrader as bt
-from .util.commission import IBCommision
+from backtrader import TimeFrame
+from .util import commission, observers, analyzers
 
 
-def run_strategy(strategy, ticker=None, start=1900, end=2100,
-                 cash=100000.0, verbose=False, plot=False):
+def run_strategy(strategy, tickers=None, start=1900, end=2100,
+                 cash=100000.0, verbose=False, plot=False, plotreturns=False):
     start_date = datetime.datetime(start, 1, 1)
     end_date = datetime.datetime(end, 1, 1)
 
-    ticker = ticker if ticker else 'SPY'
+    tickers = tickers if tickers else ['SPY']
 
     module_path = f'.algos.{strategy}'
     module = importlib.import_module(module_path, 'backtest')
     strategy = getattr(module, strategy)
 
-    cerebro = bt.Cerebro()
+    cerebro = bt.Cerebro(stdstats=not plotreturns)
 
     # Add a strategy
     cerebro.addstrategy(strategy)
 
     # Set up data feed
-    datapath = os.path.join(os.path.dirname(__file__), '../data/price/{ticker}.csv'.format(ticker=ticker))
-    data = bt.feeds.YahooFinanceCSVData(
-        dataname=datapath,
-        fromdate=start_date,
-        todate=end_date,
-        reverse=False)
+    for ticker in tickers:
+        datapath = os.path.join(os.path.dirname(__file__), f'../data/price/{ticker}.csv')
+        data = bt.feeds.YahooFinanceCSVData(
+            dataname=datapath,
+            fromdate=start_date,
+            todate=end_date,
+            reverse=False,
+            plot=not plotreturns)
 
-    cerebro.adddata(data)
+        cerebro.adddata(data)
 
     # Set initial cash amount and commision
     cerebro.broker.setcash(cash)
-    ib_comm = IBCommision()
+    ib_comm = commission.IBCommision()
     cerebro.broker.addcommissioninfo(ib_comm)
+
+    # Add obervers
+    if plotreturns:
+        cerebro.addobserver(observers.Value)
 
     # Add analyzers
     if verbose:
-        cerebro.addanalyzer(bt.analyzers.SharpeRatio, riskfreerate=0.035)
+        cerebro.addanalyzer(bt.analyzers.SharpeRatio,
+                            riskfreerate=0.035, timeframe=TimeFrame.Days, annualize=True)
+        cerebro.addanalyzer(analyzers.Sortino,
+                            riskfreerate=0.035, timeframe=TimeFrame.Days, annualize=True)
         cerebro.addanalyzer(bt.analyzers.Returns)
         cerebro.addanalyzer(bt.analyzers.DrawDown)
 
@@ -57,31 +67,43 @@ def run_strategy(strategy, ticker=None, start=1900, end=2100,
     if plot:
         cerebro.plot()
 
-    # Get results
+    # Get analysis results
     if verbose:
         drawdown = results[0].analyzers.drawdown.get_analysis()['max']['drawdown']
         cagr = results[0].analyzers.returns.get_analysis()['rnorm100']
         sharpe = results[0].analyzers.sharperatio.get_analysis()['sharperatio']
+        sortino = results[0].analyzers.sortino.get_analysis()['sortino']
 
-        sharpe = 'None' if sharpe is None else round(sharpe, 3)
+        sharpe = 'None' if sharpe is None else round(sharpe, 5)
         print('ROI:\t\t{:.2f}%'.format(100.0 * ((end_value / start_value) - 1.0)))
-        print('Max Drawdown:\t{:.2f}%\nCAGR:\t\t{:.2f}%\nSharpe:\t\t{}'.format(drawdown, cagr, sharpe))
+        analyzer_results = []
+        analyzer_results.append('Max Drawdown:\t{:.2f}'.format(drawdown))
+        analyzer_results.append('CAGR:\t\t{:.2f}'.format(cagr))
+        analyzer_results.append('Sharpe:\t\t{}'.format(sharpe))
+        analyzer_results.append('Sortino:\t{:.5f}'.format(sortino))
+        print('\n'.join(analyzer_results))
 
 
 if __name__ == '__main__':
     PARSER = argparse.ArgumentParser()
     PARSER.add_argument('strategy', nargs=1)
-    PARSER.add_argument('-t', '--ticker', nargs=1)
+    PARSER.add_argument('-t', '--tickers', nargs='+')
     PARSER.add_argument('-s', '--start', nargs=1, type=int)
     PARSER.add_argument('-e', '--end', nargs=1, type=int)
     PARSER.add_argument('--cash', nargs=1, type=int)
     PARSER.add_argument('-v', '--verbose', action="store_true")
     PARSER.add_argument('-p', '--plot', action="store_true")
+    PARSER.add_argument('--plotreturns', action="store_true")
     ARGS = PARSER.parse_args()
+    ARG_ITEMS = vars(ARGS)
+    STRATEGY_ARGS = {}
+
+    # Parse multiple tickers
+    STRATEGY_ARGS['tickers'] = ARG_ITEMS['tickers']
+    del ARG_ITEMS['tickers']
 
     # Remove None Values
-    STRATEGY_ARGS = {}
-    for arg, val in vars(ARGS).items():
+    for arg, val in ARG_ITEMS.items():
         if val:
             STRATEGY_ARGS[arg] = val[0] if isinstance(val, list) else val
 
