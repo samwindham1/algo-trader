@@ -61,6 +61,14 @@ def top_alpha(stocks, market, risk_free, window, top_n_count=0):
     return alpha.iloc[-1].nlargest(top_n_count) if top_n_count > 0 else alpha.sort(ascending=False)
 
 
+def var(returns, confidence):
+    return returns.quantile(confidence, interpolation='higher')
+
+
+def cvar(returns, value_at_risk):
+    return returns[returns.lt(value_at_risk)].mean()
+
+
 if __name__ == '__main__':
     # do nothing
     print('fin_calc imported')
