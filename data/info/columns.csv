@@ -1,0 +1,105 @@
+0,Accounts Payable
+1,Adjustments To Net Income
+2,Capital Expenditure
+3,Capital Surplus
+4,Cash And Cash Equivalents
+5,Change In Cash and Cash Equivalents
+6,Changes In Accounts Receivables
+7,Changes In Inventories
+8,Changes In Liabilities
+9,Changes In Other Operating Activities
+10,Common Stock
+11,Cost of Revenue
+12,Deferred Long Term Asset Charges
+13,Deferred Long Term Liability Charges
+14,Depreciation
+15,Discontinued Operations
+16,Dividends Paid
+17,Earnings Before Interest and Taxes
+18,Effect Of Exchange Rate Changes
+19,Goodwill
+20,Gross Profit
+21,Income Before Tax
+22,Income Tax Expense
+23,Intangible Assets
+24,Interest Expense
+25,Inventory
+26,Investments
+27,Long Term Debt
+28,Long Term Investments
+29,Minority Interest
+30,Net Borrowings
+31,Net Income Applicable To Common Shares
+32,Net Income From Continuing Ops
+33,Net Income
+34,Net Receivables
+35,Net Tangible Assets
+36,Operating Income or Loss
+37,Other Assets
+38,Other Cash Flows from Financing Activities
+39,Other Cash flows from Investing Activities
+40,Other Current Assets
+41,Other Current Liabilities
+42,Other Liabilities
+43,Other Stockholder Equity
+44,Others
+45,"Property, plant and equipment"
+46,Research Development
+47,Retained Earnings
+48,Selling General and Administrative
+49,Short Term Investments
+50,Short/Current Long Term Debt
+51,Total Assets
+52,Total Cash Flow From Operating Activities
+53,Total Cash Flows From Financing Activities
+54,Total Cash Flows From Investing Activities
+55,Total Current Assets
+56,Total Current Liabilities
+57,Total Liabilities
+58,Total Operating Expenses
+59,Total Other Income/Expenses Net
+60,Total Revenue
+61,Treasury Stock
+62,ask
+63,askSize
+64,averageDailyVolume10Day
+65,averageDailyVolume3Month
+66,bid
+67,bidSize
+68,bookValue
+69,earningsTimestamp
+70,earningsTimestampEnd
+71,earningsTimestampStart
+72,epsForward
+73,epsTrailingTwelveMonths
+74,fiftyDayAverage
+75,fiftyDayAverageChange
+76,fiftyDayAverageChangePercent
+77,fiftyTwoWeekHigh
+78,fiftyTwoWeekHighChange
+79,fiftyTwoWeekHighChangePercent
+80,fiftyTwoWeekLow
+81,fiftyTwoWeekLowChange
+82,fiftyTwoWeekLowChangePercent
+83,forwardPE
+84,marketCap
+85,priceHint
+86,priceToBook
+87,regularMarketChange
+88,regularMarketChangePercent
+89,regularMarketDayHigh
+90,regularMarketDayLow
+91,regularMarketOpen
+92,regularMarketPreviousClose
+93,regularMarketPrice
+94,regularMarketTime
+95,regularMarketVolume
+96,sharesOutstanding
+97,sourceInterval
+98,Total stockholders' equity
+99,trailingAnnualDividendRate
+100,trailingAnnualDividendYield
+101,trailingPE
+102,twoHundredDayAverage
+103,twoHundredDayAverageChange
+104,twoHundredDayAverageChangePercent
