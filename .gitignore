@@ -1,6 +1,7 @@
 config.local.json
 __pycache__
 data/price/
+data/info/*.p
 tools/log/log
 .ipynb_checkpoints
 .vscode
