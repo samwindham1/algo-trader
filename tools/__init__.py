@@ -1,1 +1,1 @@
-from . import log, fin_calc
+from . import log, fin_calc, download_info
