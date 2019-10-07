@@ -1,0 +1,930 @@
+Ticker,Name,Price,Dividend Yield,Market Cap,P/E Ratio,Payout Ratio,Beta,EV/EBIT Ratio
+AAN,"Aaron's, Inc.",60.2,0.002,4066,20.0,0.045,0.9,15.8
+AAON,"AAON, Inc.",48.9,0.006999999999999999,2548,50.5,0.33,1.2,36.3
+AAT,"American Assets Trust, Inc.",46.87,0.024,2799,60.3,1.4280000000000002,0.5,39.4
+AAWW,"Atlas Air Worldwide Holdings, Inc.",24.53,0.0,634,1.9,0.0,1.8,6.9
+AAXN,"Axon Enterprise, Inc.",63.54,0.0,3765,249.3,0.0,1.2,438.6
+ABCB,Ameris Bancorp,39.68,0.01,1888,11.5,0.116,1.2,5.2
+ABM,"ABM Industries, Inc.",35.96,0.02,2388,26.8,0.5329999999999999,1.1,20.6
+ABTX,"Allegiance Bancshares, Inc. (Texas)",33.5,0.0,709,13.3,0.0,1.0,1.4
+ACA,"Arcosa, Inc.",34.35,0.0,1662,18.4,0.0,-0.1,14.4
+ACBI,"Atlantic Capital Bancshares, Inc.",18.02,0.0,412,31.4,0.0,0.7,1.3
+ACCO,ACCO Brands Corp.,9.63,0.025,943,9.4,0.233,0.8,8.9
+ACIA,"Acacia Communications, Inc.",64.58,0.0,2653,117.4,0.0,1.3,153.9
+ACIW,"ACI Worldwide, Inc.",31.86,0.0,3719,44.7,0.0,1.3,38.9
+ACLS,"Axcelis Technologies, Inc.",18.22,0.0,589,24.7,0.0,1.5,11.4
+ACNB,ACNB Corp.,36.03,0.026,255,10.7,0.28,0.7,1.6
+ACRE,Ares Commercial Real Estate Corp.,15.72,0.08,454,11.7,0.94,0.4,10.0
+ADC,Agree Realty Corp.,73.4,0.03,3080,40.5,1.226,0.3,45.5
+ADES,"Advanced Emissions Solutions, Inc.",14.08,0.071,262,7.5,0.534,0.7,4.8
+ADUS,Addus HomeCare Corp.,81.39,0.0,1067,55.8,0.0,0.8,37.8
+AEIS,"Advanced Energy Industries, Inc.",56.34,0.0,2158,21.5,0.0,1.5,18.8
+AEO,"American Eagle Outfitters, Inc.",16.24,0.034,2744,10.6,0.358,1.1,6.3
+AGM,Federal Agricultural Mortgage Corp.,81.84,0.031,876,9.1,0.284,1.0,18.1
+AGX,"Argan, Inc.",38.8,0.026,607,376.7,9.709,0.7,74.8
+AHH,"Armada Hoffler Properties, Inc.",18.3,0.045,1290,57.2,2.563,0.5,52.8
+AIMC,Altra Industrial Motion Corp.,27.92,0.024,1801,20.7,0.505,1.7,18.4
+AIN,Albany International Corp.,87.89,0.008,2698,26.0,0.21,1.1,18.2
+AIR,AAR Corp.,45.32,0.006999999999999999,1589,225.0,1.49,1.1,16.7
+AIT,"Applied Industrial Technologies, Inc.",54.74,0.022,2116,14.7,0.331,1.1,12.1
+AJRD,"Aerojet Rocketdyne Holdings, Inc.",51.5,0.0,4052,23.4,0.0,0.9,14.3
+AJX,Great Ajax Corp.,15.1,0.083,297,8.6,0.7190000000000001,0.5,18.0
+AKR,Acadia Realty Trust,28.7,0.039,2424,78.1,3.02,0.7,81.8
+ALE,"ALLETE, Inc.",87.29,0.026,4509,22.9,0.602,0.3,22.9
+ALRM,"Alarm.com Holdings, Inc.",48.89,0.0,2371,102.5,0.0,1.2,123.5
+ALTR,"Altair Engineering, Inc.",34.07,0.0,2441,373.6,0.0,1.5,68.0
+AMC,"AMC Entertainment Holdings, Inc.",10.85,0.07400000000000001,1127,199.1,14.679,1.2,16.0
+AMEH,"Apollo Medical Holdings, Inc.",21.41,0.0,769,72.9,0.0,0.8,14.4
+AMKR,"Amkor Technology, Inc.",9.04,0.0,2167,41.1,0.0,1.6,14.4
+AMN,"AMN Healthcare Services, Inc.",56.37,0.0,2630,20.9,0.0,1.0,18.0
+AMNB,"American National Bankshares, Inc. (Virginia)",36.0,0.028,401,19.8,0.551,0.7,1.1
+AMOT,"Allied Motion Technologies, Inc.",38.93,0.003,374,22.1,0.068,1.1,16.5
+AMPH,"Amphastar Pharmaceuticals, Inc.",20.73,0.0,979,18.4,0.0,0.9,16.3
+AMRC,"Ameresco, Inc.",15.23,0.0,707,19.7,0.0,1.2,15.9
+AMSF,"AMERISAFE, Inc.",67.1,0.014,1295,17.0,0.238,0.5,12.8
+AMSWA,"American Software, Inc.",15.08,0.029,473,71.3,2.081,0.9,69.4
+AMTB,"Amerant Bancorp, Inc.",20.09,0.0,1652,16.5,0.0,0.0,2.3
+AMWD,American Woodmark Corp.,84.51,0.0,1430,16.8,0.0,1.2,13.3
+ANDE,"The Andersons, Inc.",26.22,0.026,855,21.0,0.541,1.0,24.7
+ANF,Abercrombie & Fitch Co.,15.72,0.051,988,14.8,0.755,1.0,6.1
+ANIK,"Anika Therapeutics, Inc.",53.12,0.0,732,25.7,0.0,0.7,17.6
+ANIP,"ANI Pharmaceuticals, Inc.",72.42,0.0,875,49.3,0.0,0.8,26.8
+AOBC,American Outdoor Brands Corp.,6.08,0.0,333,38.3,0.0,0.4,12.9
+APAM,"Artisan Partners Asset Management, Inc.",28.53,0.081,2220,11.5,0.931,1.2,7.6
+APEI,"American Public Education, Inc.",23.01,0.0,369,18.4,0.0,0.9,5.0
+APOG,"Apogee Enterprises, Inc.",40.8,0.017,1082,24.7,0.413,1.1,18.0
+APPF,"AppFolio, Inc.",96.8,0.0,3321,94.1,0.0,1.1,320.9
+ARCB,ArcBest Corp.,30.69,0.01,783,9.2,0.096,1.4,5.9
+ARCH,"Arch Coal, Inc.",71.94,0.024,1170,3.8,0.08900000000000001,0.9,3.7
+ARES,Ares Management Corp.,29.36,0.041,6791,39.8,1.626,1.1,26.4
+ARGO,Argo Group International Holdings Ltd.,68.12,0.017,2336,19.8,0.338,0.6,15.1
+ARI,"Apollo Commercial Real Estate Finance, Inc.",19.54,0.094,3000,12.3,1.161,0.5,10.2
+ARL,"American Realty Investors, Inc.",16.26,0.0,260,1.6,0.0,0.9,2.9
+ARNA,"Arena Pharmaceuticals, Inc.",51.07,0.0,2545,4.3,0.0,1.5,2.6
+AROC,"Archrock, Inc.",10.32,0.051,1568,25.1,1.284,1.5,19.7
+AROW,Arrow Financial Corp.,34.51,0.029,516,14.4,0.418,0.7,3.9
+ARTNA,Artesian Resources Corp.,36.33,0.027000000000000003,337,23.6,0.63,0.5,18.5
+ARWR,"Arrowhead Pharmaceuticals, Inc.",28.86,0.0,2750,60.3,0.0,2.4,74.9
+ASGN,"ASGN, Inc.",63.54,0.0,3361,19.3,0.0,1.5,15.1
+ASIX,"Advansix, Inc.",26.03,0.0,724,12.2,0.0,1.6,10.2
+ATGE,"Adtalem Global Education, Inc.",40.66,0.0,2233,18.2,0.0,0.9,12.1
+ATI,"Allegheny Technologies, Inc.",20.42,0.0,2575,14.1,0.0,1.4,11.3
+ATKR,"Atkore International Group, Inc.",30.6,0.0,1425,11.7,0.0,1.4,10.5
+ATNI,"ATN International, Inc.",60.4,0.011,967,61.3,0.69,1.1,20.2
+ATRO,Astronics Corp.,31.19,0.0,1019,8.7,0.0,1.3,14.3
+ATSG,"Air Transport Services Group, Inc.",21.74,0.0,1291,51.3,0.0,0.9,27.6
+AUB,Atlantic Union Bankshares Corp.,38.28,0.024,3143,16.6,0.398,0.9,7.1
+AVA,Avista Corp.,47.88,0.032,3165,16.0,0.507,0.2,15.9
+AVAV,"AeroVironment, Inc.",61.27,0.0,1469,38.7,0.0,1.2,27.9
+AVD,American Vanguard Corp.,16.21,0.005,490,22.8,0.112,1.1,17.4
+AVX,AVX Corp.,15.61,0.029,2640,9.7,0.287,1.2,5.1
+AWR,American States Water Co.,90.14,0.012,3320,43.6,0.532,0.4,32.1
+AX,"Axos Financial, Inc.",27.53,0.0,1687,11.0,0.0,1.2,3.9
+AXE,"Anixter International, Inc.",64.86,0.0,2187,11.5,0.0,1.5,9.4
+AYR,Aircastle Ltd.,22.75,0.052000000000000005,1705,8.4,0.436,0.9,14.2
+AZZ,"AZZ, Inc.",42.97,0.016,1124,19.8,0.313,1.0,15.9
+B,"Barnes Group, Inc.",54.44,0.012,2756,18.7,0.22,1.2,14.5
+BANC,"Banc of California, Inc.",14.34,0.031,730,29.8,0.935,0.9,6.7
+BANR,Banner Corp.,56.17,0.028,1944,12.9,0.362,0.9,3.8
+BBSI,"Barrett Business Services, Inc.",88.82,0.011,663,13.8,0.155,1.1,9.3
+BCEI,"Bonanza Creek Energy, Inc.",24.14,0.0,498,2.7,0.0,1.4,2.8
+BCML,BayCom Corp.,23.03,0.0,278,19.0,0.0,0.6,5.3
+BCO,The Brink's Co.,83.15,0.006999999999999999,4157,53.1,0.383,1.1,22.6
+BCOR,"Blucora, Inc.",21.55,0.0,1053,16.5,0.0,1.3,17.9
+BCPC,Balchem Corp.,98.1,0.0,3174,40.4,0.0,1.1,29.7
+BDC,"Belden, Inc.",50.88,0.004,2007,12.6,0.049,1.5,13.2
+BDGE,"Bridge Bancorp, Inc.",29.68,0.031,589,13.4,0.417,0.9,0.5
+BEAT,"BioTelemetry, Inc.",42.06,0.0,1425,30.4,0.0,1.6,24.3
+BFC,Bank First Corp.,68.37,0.011,486,18.4,0.205,1.0,3.5
+BFS,"Saul Centers, Inc.",53.92,0.039,1240,30.5,1.193,0.8,22.6
+BFST,"Business First Bancshares, Inc.",24.99,0.014,334,16.0,0.218,0.7,0.3
+BGS,"B&G Foods, Inc.",19.56,0.097,1279,7.2,0.698,0.1,18.1
+BHB,Bar Harbor Bankshares,24.68,0.033,384,12.8,0.424,0.8,3.8
+BHE,"Benchmark Electronics, Inc.",28.57,0.021,1075,20.5,0.43,1.0,11.9
+BHLB,"Berkshire Hills Bancorp, Inc.",30.91,0.029,1574,15.3,0.445,0.9,3.4
+BID,Sotheby's,56.94,0.0,2654,26.1,0.0,1.0,18.7
+BIG,"Big Lots, Inc.",22.9,0.052000000000000005,893,7.4,0.389,1.0,6.4
+BJ,"BJ's Wholesale Club Holdings, Inc.",26.36,0.0,3605,17.1,0.0,1.2,14.8
+BJRI,"BJ's Restaurants, Inc.",35.77,0.013,732,16.2,0.213,0.9,14.4
+BKE,"The Buckle, Inc.",19.45,0.051,957,10.1,0.521,0.8,5.8
+BKH,Black Hills Corp.,76.85,0.026,4693,20.3,0.524,0.2,20.4
+BLBD,Blue Bird Corp.,19.34,0.0,512,18.8,0.0,0.8,15.1
+BLD,TopBuild Corp.,95.12,0.0,3261,19.1,0.0,0.9,14.2
+BLDR,"Builders FirstSource, Inc.",20.26,0.0,2341,10.2,0.0,1.1,9.1
+BLFS,"BioLife Solutions, Inc.",20.74,0.0,417,115.7,0.0,1.4,112.2
+BLKB,"Blackbaud, Inc.",91.11,0.005,4480,162.8,0.858,1.4,100.5
+BLMN,"Bloomin' Brands, Inc.",19.83,0.019,1722,16.7,0.32,0.7,17.0
+BLX,Banco Latinoamericano de Comercio Exterior SA,19.63,0.078,732,33.0,2.589,0.5,11.3
+BMCH,"BMC Stock Holdings, Inc.",25.38,0.0,1692,14.2,0.0,0.9,10.3
+BMI,"Badger Meter, Inc.",54.57,0.011,1589,43.6,0.479,0.9,24.3
+BMRC,Bank of Marin Bancorp,43.65,0.016,596,17.7,0.289,0.7,2.1
+BMTC,Bryn Mawr Bank Corp.,36.6,0.027000000000000003,737,12.3,0.335,0.8,3.4
+BOOM,"DMC Global, Inc.",42.94,0.002,629,12.1,0.023,1.1,8.8
+BOOT,"Boot Barn Holdings, Inc.",36.07,0.0,1027,24.3,0.0,1.7,14.7
+BPFH,"Boston Private Financial Holdings, Inc.",11.86,0.04,995,10.7,0.433,0.9,4.6
+BRC,Brady Corp.,53.66,0.016,2844,21.5,0.341,0.8,13.8
+BRID,Bridgford Foods Corp.,34.9,0.0,317,43.6,0.0,0.0,35.9
+BRKL,"Brookline Bancorp, Inc.",14.78,0.028,1180,13.7,0.389,0.8,7.0
+BRKS,"Brooks Automation, Inc.",39.4,0.01,2846,79.4,0.8059999999999999,1.8,95.0
+BRY,Berry Petroleum Corp.,10.25,0.044,830,11.7,0.513,1.4,4.2
+BSIG,"BrightSphere Investment Group, Inc.",10.24,0.039,929,6.5,0.255,1.0,7.2
+BSTC,Biospecifics Technologies Corp.,57.75,0.0,423,19.1,0.0,0.8,12.2
+BTU,Peabody Energy Corp.,15.5,0.034,1606,3.6,0.122,1.0,3.7
+BV,"BrightView Holdings, Inc.",18.81,0.0,1972,243.7,0.0,1.3,37.1
+BWB,"Bridgewater Bancshares, Inc.",12.14,0.0,350,12.4,0.0,0.6,3.2
+BXG,Bluegreen Vacations Corp.,9.68,0.066,721,16.3,1.08,1.3,11.0
+BXMT,"Blackstone Mortgage Trust, Inc.",36.47,0.068,4898,14.7,0.998,0.4,20.6
+BY,"Byline Bancorp, Inc.",18.4,0.0,701,11.8,0.0,0.8,1.1
+BYD,Boyd Gaming Corp.,25.86,0.01,2874,22.8,0.221,1.7,15.2
+CAI,"CAI International, Inc.",22.58,0.0,393,7.0,0.0,1.0,16.7
+CAKE,"Cheesecake Factory, Inc.",40.03,0.033,1787,16.7,0.5489999999999999,0.5,12.6
+CALM,"Cal-Maine Foods, Inc.",44.09,0.019,2147,39.2,0.762,0.5,23.3
+CAMP,CalAmp Corp.,11.05,0.0,372,326.0,0.0,1.4,19.2
+CAR,"Avis Budget Group, Inc.",29.34,0.0,2229,11.8,0.0,1.6,21.1
+CARG,"Cargurus, Inc.",33.14,0.0,3698,84.7,0.0,1.3,120.6
+CARS,"Cars.com, Inc.",9.46,0.0,631,67.9,0.0,1.4,18.9
+CASA,"Casa Systems, Inc.",7.49,0.0,629,32.5,0.0,1.1,17.8
+CASH,"Meta Financial Group, Inc.",34.17,0.006,1294,15.5,0.091,0.7,3.4
+CASS,"Cass Information Systems, Inc.",56.4,0.017,817,26.9,0.454,0.7,5.3
+CATC,Cambridge Bancorp,75.86,0.027000000000000003,368,14.2,0.379,0.4,6.6
+CATM,Cardtronics plc,30.14,0.0,1365,79.7,0.0,1.4,32.8
+CATO,The Cato Corp.,16.85,0.078,417,12.3,0.961,0.6,4.5
+CATY,Cathay General Bancorp,35.18,0.033,2808,10.4,0.345,0.9,2.6
+CBM,Cambrex Corp.,59.66,0.0,2010,37.1,0.0,0.9,25.3
+CBPX,"Continental Building Products, Inc.",27.24,0.0,945,14.5,0.0,1.0,10.4
+CBTX,"CBTX, Inc. (Texas)",29.27,0.01,729,14.1,0.14400000000000002,0.8,6.4
+CBZ,"CBIZ, Inc.",24.58,0.0,1347,20.0,0.0,0.7,15.0
+CCBG,"Capital City Bank Group, Inc.",27.52,0.015,461,16.5,0.24,0.8,0.2
+CCNE,CNB Financial Corp. (Pennsylvania),29.91,0.023,455,12.2,0.277,0.9,2.0
+CCOI,"Cogent Communications Holdings, Inc.",56.24,0.041,2633,80.3,3.255,0.9,32.1
+CCS,"Century Communities, Inc.",29.99,0.0,913,12.0,0.0,1.0,17.5
+CECO,Career Education Corp.,16.9,0.0,1185,22.2,0.0,0.8,15.0
+CEIX,"CONSOL Energy, Inc.",16.38,0.0,447,4.4,0.0,1.1,6.0
+CENT,Central Garden & Pet Co.,27.53,0.0,1590,15.5,0.0,0.7,10.9
+CENTA,Central Garden & Pet Co.,26.12,0.0,1509,14.7,0.0,0.8,10.1
+CFFN,"Capitol Federal Financial, Inc.",14.04,0.024,1986,20.3,0.493,0.5,13.9
+CHCO,City Holding Co.,77.74,0.027000000000000003,1275,16.5,0.45,0.8,1.7
+CHCT,"Community Healthcare Trust, Inc.",43.6,0.037000000000000005,846,331.3,12.348,0.5,104.3
+CHEF,"The Chefs' Warehouse, Inc.",40.47,0.0,1226,54.3,0.0,0.9,28.8
+CHSP,Chesapeake Lodging Trust,27.17,0.059,1651,17.4,1.024,-0.1,17.9
+CHUY,"Chuy's Holdings, Inc.",24.89,0.0,413,77.5,0.0,0.6,26.0
+CIVB,"Civista Bancshares, Inc.",21.9,0.017,343,16.6,0.28800000000000003,0.8,3.3
+CKH,"SEACOR Holdings, Inc.",46.82,0.0,940,24.6,0.0,1.0,13.1
+CLAR,Clarus Corp.,11.81,0.008,354,32.6,0.276,0.7,32.5
+CLBK,"Columbia Financial, Inc.",15.79,0.0,1832,33.4,0.0,0.6,12.0
+CLCT,"Collectors Universe, Inc.",28.88,0.024,264,25.9,0.627,0.4,15.2
+CLDT,Chatham Lodging Trust,18.18,0.073,853,33.9,2.459,0.6,26.6
+CLF,"Cleveland-Cliffs, Inc.",7.73,0.021,2087,1.9,0.04,1.7,6.1
+CLI,Mack-Cali Realty Corp.,21.35,0.037000000000000005,1933,8.0,0.299,0.6,11.7
+CMC,Commercial Metals Co.,17.97,0.027000000000000003,2119,12.9,0.345,1.5,10.5
+CMCO,Columbus McKinnon Corp.,38.14,0.006,901,16.7,0.092,1.3,12.0
+CMP,"Compass Minerals International, Inc.",56.48,0.051,1914,32.5,1.658,1.5,21.9
+CMRE,Costamare Inc.,6.22,0.064,735,23.8,1.528,1.1,14.1
+CMTL,Comtech Telecommunications Corp.,29.74,0.013,718,27.2,0.365,1.0,17.7
+CNBKA,"Century Bancorp, Inc. (Massachusetts)",87.16,0.006,485,10.4,0.057,0.5,1.3
+CNNE,"Cannae Holdings, Inc.",28.12,0.0,2031,27.7,0.0,0.9,22.8
+CNOB,"ConnectOne Bancorp, Inc.",22.39,0.015,792,10.8,0.16,1.0,5.2
+CNR,"Cornerstone Building Brands, Inc.",5.92,0.0,743,9.7,0.0,1.6,25.4
+CNS,"Cohen & Steers, Inc. (New York)",54.3,0.025,2565,21.2,0.54,0.7,16.8
+CNX,CNX Resources Corp.,7.62,0.0,1429,5.1,0.0,1.3,8.0
+CNXN,"PC Connection, Inc.",36.9,0.0,971,13.7,0.0,1.2,8.9
+CONN,"Conn's, Inc.",23.75,0.0,686,9.0,0.0,1.6,9.4
+CORE,"Core-Mark Holding Co., Inc.",31.08,0.014,1426,26.0,0.36,0.8,21.3
+CORR,"CorEnergy Infrastructure Trust, Inc.",47.13,0.064,638,17.7,1.124,0.6,15.3
+CORT,"Corcept Therapeutics, Inc.",14.09,0.0,1602,20.7,0.0,1.1,13.2
+COWN,"Cowen, Inc.",16.09,0.0,475,16.2,0.0,1.3,34.6
+CPK,Chesapeake Utilities Corp.,94.09,0.016,1543,25.6,0.412,0.5,21.8
+CPS,"Cooper-Standard Holdings, Inc.",42.58,0.0,720,4.9,0.0,1.5,6.0
+CPSI,"Computer Programs & Systems, Inc.",23.72,0.017,341,18.2,0.306,0.7,16.6
+CRAI,"CRA International, Inc.",44.2,0.017,348,16.9,0.294,0.5,11.8
+CRC,California Resources Corp.,11.19,0.0,548,1.6,0.0,2.9,6.3
+CRD.A,Crawford & Co.,10.82,0.018000000000000002,581,19.9,0.368,0.3,12.0
+CRMT,"America's Car-Mart, Inc.",92.94,0.0,619,12.0,0.0,0.8,8.6
+CRS,Carpenter Technology Corp.,53.74,0.015,2561,15.5,0.231,1.7,11.8
+CRUS,"Cirrus Logic, Inc.",54.46,0.0,3166,33.1,0.0,1.4,27.0
+CRVL,CorVel Corp.,83.2,0.0,1537,32.2,0.0,0.9,23.0
+CRY,"CryoLife, Inc.",29.34,0.0,1100,485.8,0.0,1.1,66.4
+CRZO,"Carrizo Oil & Gas, Inc.",8.63,0.0,799,1.4,0.0,2.2,5.3
+CSFL,CenterState Bank Corp.,24.59,0.017,3173,13.3,0.227,1.0,2.2
+CSGS,"CSG Systems International, Inc.",52.93,0.016,1747,22.6,0.369,0.8,16.6
+CSTE,Caesarstone Ltd.,16.56,0.0,570,13.9,0.0,0.7,14.9
+CSV,"Carriage Services, Inc.",21.76,0.014,388,36.3,0.501,0.6,16.7
+CSWI,"CSW Industrials, Inc.",68.72,0.002,1032,29.7,0.058,0.9,16.2
+CTB,Cooper Tire & Rubber Co.,24.99,0.017,1254,18.2,0.305,0.7,9.8
+CTO,Consolidated-Tomoka Land Co.,67.88,0.005,335,12.2,0.063,0.6,11.1
+CTRA,"Contura Energy, Inc.",31.63,0.0,608,5.2,0.0,0.1,11.3
+CTRE,"CareTrust REIT, Inc.",23.16,0.037000000000000005,2213,30.8,1.145,0.5,30.4
+CTS,CTS Corp.,32.23,0.005,1053,20.7,0.103,1.1,13.8
+CTWS,"Connecticut Water Service, Inc.",70.04,0.018000000000000002,845,39.5,0.713,0.1,37.8
+CUB,Cubic Corp.,72.08,0.004,2247,76.7,0.287,1.0,58.9
+CUBI,"Customers Bancorp, Inc.",20.46,0.0,639,18.8,0.0,0.8,6.1
+CVBF,CVB Financial Corp.,21.67,0.03,3037,15.8,0.467,0.8,3.7
+CVGW,"Calavo Growers, Inc.",94.38,0.0,1661,54.9,0.0,0.7,24.3
+CVI,"CVR Energy, Inc.",45.11,0.067,4535,11.5,0.7659999999999999,1.2,6.8
+CVLT,"Commvault Systems, Inc.",45.08,0.0,2037,398.6,0.0,1.1,108.1
+CVTI,"Covenant Transportation Group, Inc.",16.94,0.0,313,8.1,0.0,1.1,9.2
+CWST,"Casella Waste Systems, Inc.",44.92,0.0,2138,107.9,0.0,0.8,60.3
+CWT,California Water Service Group,53.08,0.015,2555,43.2,0.626,0.5,30.3
+CXW,"CoreCivic, Inc.",17.36,0.1,2068,11.4,1.148,0.6,13.8
+DAN,"Dana, Inc.",14.93,0.027000000000000003,2149,9.6,0.257,1.6,12.7
+DAR,"Darling Ingredients, Inc.",19.8,0.0,3262,41.4,0.0,0.8,25.0
+DCO,"Ducommun, Inc.",44.54,0.0,514,25.4,0.0,1.0,17.8
+DCOM,"Dime Community Bancshares, Inc.",21.43,0.026,771,16.0,0.417,0.7,9.0
+DDS,"Dillard's, Inc.",60.08,0.006999999999999999,1501,12.3,0.08199999999999999,0.7,10.9
+DEA,"Easterly Government Properties, Inc.",20.97,0.05,1527,188.7,9.361,0.5,82.0
+DENN,Denny's Corp.,23.27,0.0,1383,19.8,0.0,0.4,15.5
+DFIN,"Donnelley Financial Solutions, Inc.",11.94,0.0,410,6.4,0.0,1.3,6.3
+DGICA,"Donegal Group, Inc.",14.49,0.04,414,28.9,1.146,0.6,24.5
+DGII,"Digi International, Inc.",13.6,0.0,383,33.2,0.0,1.2,27.4
+DIN,"Dine Brands Global, Inc.",71.55,0.037000000000000005,1229,12.4,0.458,0.7,12.3
+DIOD,"Diodes, Inc.",39.86,0.0,2033,15.6,0.0,1.5,9.8
+DK,"Delek US Holdings, Inc.",37.02,0.029,2789,5.7,0.163,1.7,4.5
+DLTH,"Duluth Holdings, Inc.",9.21,0.0,301,25.0,0.0,1.4,13.0
+DLX,Deluxe Corp.,46.97,0.026,2016,19.3,0.494,1.0,15.4
+DNOW,"NOW, Inc.",12.05,0.0,1311,19.2,0.0,1.4,14.3
+DOC,Physicians Realty Trust,17.47,0.053,3237,63.0,3.32,0.5,40.7
+DOOR,Masonite International Corp.,57.0,0.0,1426,10.6,0.0,0.7,12.2
+DORM,"Dorman Products, Inc.",80.32,0.0,2633,23.3,0.0,0.8,15.9
+DRH,DiamondRock Hospitality Co.,10.11,0.049,2024,22.3,1.104,0.8,20.8
+DXPE,"DXP Enterprises, Inc.",36.35,0.0,640,15.9,0.0,1.3,10.3
+DY,"Dycom Industries, Inc.",49.72,0.0,1566,26.0,0.0,1.8,19.3
+EAT,"Brinker International, Inc.",43.37,0.035,1626,10.7,0.374,0.8,11.5
+EBF,"Ennis, Inc.",20.74,0.043,542,14.3,0.619,0.3,9.1
+EBIX,"Ebix, Inc.",43.53,0.006999999999999999,1327,14.6,0.1,1.4,11.4
+EBSB,"Meridian Bancorp, Inc.",18.64,0.014,994,15.9,0.222,0.6,7.2
+EBTC,"Enterprise Bancorp, Inc.",32.41,0.019,383,12.3,0.231,0.9,2.8
+ECHO,"Echo Global Logistics, Inc.",23.13,0.0,631,25.5,0.0,1.2,13.4
+ECOL,"US Ecology, Inc.",63.53,0.011,1403,27.5,0.312,0.7,20.4
+ECPG,"Encore Capital Group, Inc.",34.09,0.0,1059,6.9,0.0,1.1,11.1
+EE,El Paso Electric Co.,66.79,0.022,2724,30.1,0.6609999999999999,0.3,20.5
+EFC,"Ellington Financial, Inc.",17.92,0.1,605,16.5,1.646,0.3,12.0
+EFSC,Enterprise Financial Services Corp.,40.71,0.013,1094,12.2,0.161,0.8,1.3
+EGBN,"Eagle Bancorp, Inc. (Maryland)",44.31,0.005,1517,10.1,0.05,0.8,2.9
+EGOV,"NIC, Inc.",20.31,0.016,1360,26.5,0.417,0.8,18.8
+EGRX,"Eagle Pharmaceuticals, Inc.",56.73,0.0,843,19.3,0.0,1.3,12.2
+EHTH,"eHealth, Inc.",78.59,0.0,1792,210.8,0.0,1.3,47.5
+EIG,"Employers Holdings, Inc.",43.69,0.019,1394,8.6,0.165,0.7,6.3
+ELF,"e.l.f. Beauty, Inc.",17.65,0.0,880,44.8,0.0,1.3,143.8
+ELY,Callaway Golf Co.,19.63,0.002,1847,31.6,0.064,1.2,24.6
+EMCI,"EMC Insurance Group, Inc.",36.01,0.025,780,24.0,0.607,-0.2,19.9
+EME,"EMCOR Group, Inc.",85.71,0.004,4811,15.6,0.058,1.0,11.0
+ENPH,"Enphase Energy, Inc.",27.47,0.0,3351,299.2,0.0,1.2,147.4
+ENS,EnerSys,68.07,0.01,2892,17.7,0.182,1.2,14.3
+ENSG,"The Ensign Group, Inc.",50.15,0.004,2677,25.7,0.096,1.0,20.1
+ENTA,"Enanta Pharmaceuticals, Inc.",71.74,0.0,1412,21.6,0.0,1.4,15.0
+ENVA,"Enova International, Inc.",22.05,0.0,750,8.9,0.0,1.1,8.7
+EPAY,"Bottomline Technologies, Inc.",40.17,0.0,1762,174.5,0.0,1.5,161.5
+EPRT,"Essential Properties Realty Trust, Inc.",23.19,0.037000000000000005,1770,44.1,1.644,0.5,41.5
+EQBK,"Equity Bancshares, Inc.",27.46,0.0,427,17.1,0.0,0.7,6.4
+ERI,"Eldorado Resorts, Inc.",43.18,0.0,3358,35.4,0.0,1.7,14.5
+ERII,"Energy Recovery, Inc.",9.72,0.0,534,39.1,0.0,1.4,26.8
+ESE,"ESCO Technologies, Inc.",78.4,0.004,2037,24.0,0.098,1.0,18.4
+ESNT,Essent Group Ltd.,51.37,0.0,5054,9.9,0.0,1.1,7.6
+ETH,"Ethan Allen Interiors, Inc.",18.32,0.041,487,19.0,0.789,0.7,8.2
+EVI,"EVI Industries, Inc.",31.83,0.0,375,105.5,0.0,0.4,59.6
+EVRI,"Everi Holdings, Inc.",9.17,0.0,663,36.7,0.0,1.2,18.3
+EVTC,"EVERTEC, Inc.",32.16,0.006,2313,24.0,0.15,1.1,21.3
+EXLS,"ExlService Holdings, Inc.",65.82,0.0,2249,49.0,0.0,1.0,33.2
+EXPO,"Exponent, Inc.",70.73,0.008,3672,48.3,0.396,0.8,39.5
+EXTN,Exterran Corp.,13.47,0.0,475,77.5,0.0,1.2,15.0
+EYE,"National Vision Holdings, Inc.",24.93,0.0,1958,129.6,0.0,1.2,50.9
+EZPW,"EZCORP, Inc.",7.08,0.0,393,183.4,0.0,0.8,12.3
+FBC,"Flagstar Bancorp, Inc.",37.34,0.002,2109,10.7,0.023,0.7,7.9
+FBK,FB Financial Corp.,38.22,0.008,1181,15.4,0.121,0.8,3.5
+FBNC,First Bancorp (North Carolina),36.73,0.012,1092,11.8,0.142,0.8,2.0
+FBP,First BanCorp (Puerto Rico),10.05,0.009000000000000001,2184,9.9,0.08900000000000001,0.9,1.4
+FCBC,"First Community Bancshares, Inc. (Virginia)",32.68,0.027000000000000003,544,13.6,0.3670000000000001,0.7,6.3
+FCF,First Commonwealth Financial Corp. (Pennsylvania),13.37,0.028,1317,12.7,0.361,1.0,5.5
+FCFS,"FirstCash, Inc.",94.15,0.01,4045,26.1,0.269,0.9,19.6
+FCPT,"Four Corners Property Trust, Inc.",28.52,0.04,1951,25.9,1.033,0.4,26.3
+FDEF,First Defiance Financial Corp.,28.82,0.025,569,12.3,0.308,0.8,3.8
+FDP,"Fresh Del Monte Produce, Inc.",30.73,0.01,1486,80.2,0.782,0.6,27.9
+FELE,"Franklin Electric Co., Inc.",46.77,0.011,2167,22.8,0.258,1.1,18.2
+FF,FutureFuel Corp.,11.62,0.021,508,24.8,0.513,1.0,4.8
+FFBC,First Financial Bancorp (Ohio),24.71,0.034,2500,11.8,0.402,1.0,1.3
+FFG,"FBL Financial Group, Inc.",59.95,0.031,2957,14.4,0.45,0.7,12.0
+FFIC,Flushing Financial Corp.,20.41,0.04,575,12.2,0.491,0.7,9.7
+FFIN,"First Financial Bankshares, Inc.",33.26,0.013,4517,28.4,0.3720000000000001,0.8,2.4
+FFWM,"First Foundation, Inc.",15.08,0.006999999999999999,673,12.8,0.085,0.8,4.4
+FG,FGL Holdings,8.01,0.002,1776,18.2,0.046,1.0,10.5
+FGEN,"FibroGen, Inc.",39.9,0.0,3468,71.9,0.0,1.6,52.7
+FII,"Federated Investors, Inc.",31.93,0.034,3231,13.5,0.457,0.5,9.6
+FISI,"Financial Institutions, Inc.",30.78,0.032,492,12.4,0.395,0.7,3.4
+FIX,"Comfort Systems USA, Inc.",42.63,0.009000000000000001,1571,14.7,0.128,1.0,10.9
+FIZZ,National Beverage Corp.,45.04,0.0,2100,16.6,0.0,0.6,9.4
+FLIC,The First of Long Island Corp.,23.13,0.029,571,14.0,0.412,0.8,2.1
+FLMN,Falcon Minerals Corp.,6.6,0.071,567,10.6,0.758,1.0,11.7
+FLOW,"SPX Flow, Inc.",38.85,0.0,1654,18.8,0.0,1.5,11.8
+FLWS,"1-800-FLOWERS.COM, Inc.",14.22,0.0,918,26.2,0.0,1.2,18.6
+FMBI,"First Midwest Bancorp, Inc. (Illinois)",19.9,0.025,2198,11.2,0.277,1.0,1.5
+FMNB,Farmers National Banc Corp.,14.64,0.023,405,12.1,0.28,0.8,0.3
+FN,Fabrinet,52.88,0.0,1949,16.1,0.0,1.5,11.5
+FNKO,"Funko, Inc.",21.92,0.0,1123,37.8,0.0,1.5,19.6
+FOE,Ferro Corp.,11.9,0.0,975,19.2,0.0,1.4,16.9
+FOR,"Forestar Group, Inc.",20.33,0.0,853,20.9,0.0,1.0,24.8
+FORM,"FormFactor, Inc.",19.35,0.0,1455,13.6,0.0,1.5,29.4
+FOSL,"Fossil Group, Inc.",12.34,0.0,623,18.4,0.0,1.6,6.6
+FOXF,Fox Factory Holding Corp.,63.3,0.0,2432,28.2,0.0,1.4,25.1
+FR,"First Industrial Realty Trust, Inc.",39.58,0.023,5006,34.4,0.778,0.7,31.5
+FRAC,"Keane Group, Inc.",6.2,0.0,651,73.2,0.0,1.5,20.7
+FRME,First Merchants Corp. (Indiana),38.43,0.024,2155,11.6,0.279,1.0,3.2
+FRPH,"FRP Holdings, Inc.",50.82,0.0,501,34.5,0.0,0.8,34.4
+FSP,Franklin Street Properties Corp.,8.32,0.043,892,77.9,3.3710000000000004,0.8,35.7
+FSS,Federal Signal Corp.,31.7,0.01,1913,18.2,0.184,1.1,14.5
+FUL,H.B. Fuller Co.,47.21,0.013,2404,18.7,0.247,1.2,15.9
+FULT,Fulton Financial Corp.,16.49,0.03,2742,11.8,0.359,0.9,4.1
+FVCB,"FVCBankcorp, Inc.",18.68,0.0,259,19.0,0.0,0.3,2.3
+FWRD,Forward Air Corp.,63.26,0.011,1791,20.2,0.22,0.9,14.7
+GABC,"German American Bancorp, Inc.",32.46,0.02,865,14.7,0.29,0.9,2.5
+GATX,GATX Corp.,77.67,0.023,2773,13.9,0.321,1.2,22.3
+GBCI,"Glacier Bancorp, Inc.",40.72,0.026,3528,17.2,0.445,0.9,3.9
+GBL,"GAMCO Investors, Inc.",19.46,0.004,539,5.4,0.022,0.8,3.4
+GBX,"Greenbrier Cos., Inc.",29.84,0.034,969,14.6,0.488,1.4,6.2
+GCI,"Gannett Co., Inc.",10.93,0.059,1253,89.9,5.263,0.5,22.1
+GCO,"Genesco, Inc.",39.05,0.0,586,9.0,0.0,0.9,5.2
+GCP,"GCP Applied Technologies, Inc.",20.8,0.0,1512,16.9,0.0,0.9,17.5
+GDOT,Green Dot Corp.,27.87,0.0,1444,12.5,0.0,1.2,2.8
+GEF,"Greif, Inc.",38.48,0.046,1857,15.5,0.711,1.4,11.3
+GEF.B,"Greif, Inc.",46.94,0.037000000000000005,2266,12.7,0.475,1.2,10.3
+GEO,"The GEO Group, Inc.",17.45,0.109,2116,13.4,1.459,0.7,15.2
+GES,"Guess?, Inc.",17.48,0.045,1147,86.0,3.875,1.3,22.8
+GHDX,"Genomic Health, Inc.",70.97,0.0,2646,51.8,0.0,1.4,53.1
+GIII,G-III Apparel Group Ltd.,24.06,0.0,1149,8.4,0.0,1.7,5.5
+GLDD,Great Lakes Dredge & Dock Corp.,10.24,0.0,654,20.3,0.0,1.0,8.0
+GLUU,"Glu Mobile, Inc.",5.08,0.0,741,470.4,0.0,1.6,1384.2
+GMED,"Globus Medical, Inc.",51.84,0.0,5136,35.7,0.0,0.7,28.5
+GMRE,"Global Medical REIT, Inc.",11.46,0.07,451,31.2,2.18,0.2,26.1
+GMS,"GMS, Inc.",28.07,0.0,1169,16.3,0.0,1.5,14.0
+GNL,"Global Net Lease, Inc.",19.49,0.091,1647,160.1,14.585,0.6,38.6
+GNRC,"Generac Holdings, Inc.",79.99,0.0,4989,19.6,0.0,1.2,14.8
+GNTY,"Guaranty Bancshares, Inc. (Texas)",31.89,0.021,369,16.4,0.34,0.4,2.5
+GOLF,Acushnet Holdings Corp.,27.36,0.02,2062,22.6,0.446,0.9,15.0
+GOOD,Gladstone Commercial Corp.,23.0,0.065,733,432.3,28.195,0.5,33.0
+GPI,"Group 1 Automotive, Inc.",86.16,0.012,1600,10.6,0.128,0.9,12.7
+GPMT,"Granite Point Mortgage Trust, Inc.",18.76,0.09,1029,12.9,1.16,0.4,12.9
+GRBK,"Green Brick Partners, Inc.",10.8,0.0,546,10.4,0.0,0.7,9.7
+GRC,The Gorman-Rupp Co.,34.02,0.016,889,23.4,0.365,1.1,15.5
+GSBC,"Great Southern Bancorp, Inc. (Missouri)",59.23,0.022,842,11.1,0.24,0.8,4.0
+GTLS,"Chart Industries, Inc.",65.76,0.0,2353,40.5,0.0,1.4,27.4
+GTN,"Gray Television, Inc.",15.96,0.0,1615,9.3,0.0,1.2,13.6
+GTY,Getty Realty Corp.,31.91,0.043,1312,27.4,1.1740000000000002,0.5,23.7
+GWB,"Great Western Bancorp, Inc. (South Dakota)",32.8,0.032,1868,11.9,0.381,0.9,1.1
+GWRS,"Global Water Resources, Inc.",12.57,0.023,271,137.4,3.116,0.5,47.9
+HA,"Hawaiian Holdings, Inc.",26.97,0.018000000000000002,1275,6.1,0.108,1.3,3.6
+HASI,"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",28.99,0.046,1904,33.1,1.518,0.6,23.8
+HAYN,"Haynes International, Inc.",36.07,0.024,451,78.3,1.91,1.1,33.2
+HBCP,"Home Bancorp, Inc.",40.15,0.02,378,11.9,0.237,0.5,1.5
+HBMD,"Howard Bancorp, Inc. (Maryland)",17.11,0.0,326,31.1,0.0,0.7,7.6
+HBNC,"Horizon Bancorp, Inc. (Indiana)",17.45,0.024,786,13.1,0.316,0.8,4.1
+HCC,"Warrior Met Coal, Inc.",20.19,0.01,1041,1.6,0.016,1.0,2.4
+HCCI,"Heritage-Crystal Clean, Inc.",26.06,0.0,604,44.6,0.0,0.7,52.3
+HCI,"HCI Group, Inc.",42.1,0.037000000000000005,344,22.5,0.8270000000000001,0.5,7.9
+HCKT,"The Hackett Group, Inc.",17.2,0.02,514,26.7,0.544,0.6,16.0
+HCSG,"Healthcare Services Group, Inc.",24.86,0.031,1842,21.7,0.684,0.7,15.0
+HEES,"H&E Equipment Services, Inc.",28.62,0.038,1024,12.3,0.472,1.9,11.5
+HFFG,"HF Foods Group, Inc.",17.79,0.0,398,59.1,0.0,-0.1,39.9
+HI,"Hillenbrand, Inc.",30.74,0.027000000000000003,1926,13.7,0.373,1.1,9.0
+HIBB,"Hibbett Sports, Inc.",20.49,0.0,361,13.9,0.0,0.5,5.3
+HIIQ,"Health Insurance Innovations, Inc.",23.48,0.0,345,23.2,0.0,1.7,14.5
+HLI,"Houlihan Lokey, Inc.",45.8,0.024,3033,16.5,0.402,1.0,11.8
+HLIO,"Helios Technologies, Inc.",43.11,0.008,1381,22.3,0.18600000000000005,1.7,17.0
+HLNE,"Hamilton Lane, Inc.",61.11,0.015,3259,42.0,0.627,0.9,23.1
+HLX,"Helix Energy Solutions Group, Inc.",8.28,0.0,1232,39.6,0.0,1.7,24.8
+HMN,Horace Mann Educators Corp.,46.03,0.025,1896,16.3,0.404,0.8,9.9
+HMST,"HomeStreet, Inc.",27.77,0.0,678,17.5,0.0,0.9,8.2
+HMSY,HMS Holdings Corp.,37.1,0.0,3241,31.2,0.0,1.1,27.3
+HNGR,"Hanger, Inc.",21.54,0.0,804,67.2,0.0,0.8,19.3
+HNI,HNI Corp.,34.76,0.034,1490,17.0,0.583,1.1,12.7
+HOMB,"Home Bancshares, Inc. (Arkansas)",19.01,0.026,3184,11.1,0.285,1.0,2.9
+HOME,"At Home Group, Inc.",9.09,0.0,582,8.9,0.0,1.5,16.3
+HONE,"HarborOne Bancorp, Inc.",10.15,0.0,331,44.7,0.0,0.6,17.5
+HOPE,"Hope Bancorp, Inc.",14.56,0.038,1845,10.5,0.403,0.9,0.4
+HQY,"HealthEquity, Inc.",60.89,0.0,4300,42.4,0.0,1.7,34.3
+HR,"Healthcare Realty Trust, Inc.",33.16,0.036000000000000004,4286,137.0,4.957,0.4,70.9
+HRI,"Herc Holdings, Inc.",49.02,0.0,1407,16.9,0.0,2.0,13.6
+HRTG,"Heritage Insurance Holdings, Inc.",14.67,0.016,438,22.8,0.373,0.6,8.7
+HSC,Harsco Corp.,19.69,0.0,1581,16.4,0.0,1.7,17.5
+HSII,"Heidrick & Struggles International, Inc.",27.5,0.02,526,9.7,0.197,1.1,4.9
+HSTM,"HealthStream, Inc.",26.67,0.0,863,66.3,0.0,0.7,43.2
+HTBI,"HomeTrust Bancshares, Inc.",26.53,0.006999999999999999,474,17.4,0.118,0.5,13.8
+HTH,"Hilltop Holdings, Inc.",24.7,0.012,2292,14.4,0.175,0.8,4.9
+HTLD,"Heartland Express, Inc.",21.48,0.004,1761,21.7,0.081,0.8,15.8
+HUBG,"Hub Group, Inc.",46.01,0.0,1568,18.3,0.0,1.1,9.8
+HUD,Hudson Ltd.,12.09,0.0,476,48.0,0.0,1.0,11.9
+HURN,"Huron Consulting Group, Inc.",63.01,0.0,1444,54.4,0.0,0.8,30.4
+HVT,"Haverty Furniture Cos., Inc.",19.81,0.036000000000000004,390,14.8,0.5379999999999999,0.8,8.6
+HWC,Hancock Whitney Corp.,38.42,0.028,3296,9.6,0.27,1.0,2.4
+HWKN,"Hawkins, Inc.",43.3,0.021,462,18.4,0.388,1.1,14.4
+HY,"Hyster-Yale Materials Handling, Inc.",54.9,0.023,702,27.0,0.613,1.1,24.1
+HZO,"MarineMax, Inc.",15.04,0.0,326,8.3,0.0,1.1,8.0
+IBCP,Independent Bank Corp. (Michigan),21.86,0.03,492,12.3,0.373,0.8,0.3
+IBKC,IBERIABANK Corp.,76.23,0.022,4014,9.9,0.215,0.9,1.3
+IBP,"Installed Building Products, Inc.",59.34,0.0,1781,30.0,0.0,1.2,20.0
+IBTX,"Independent Bank Group, Inc.",53.17,0.015,2284,12.4,0.182,1.0,3.9
+ICFI,"ICF International, Inc.",80.73,0.006999999999999999,1517,23.3,0.162,0.7,18.3
+ICHR,Ichor Holdings Ltd.,25.91,0.0,582,41.0,0.0,1.6,27.4
+IDCC,"InterDigital, Inc.",53.52,0.026,1666,64.4,1.6840000000000002,1.1,28.1
+IDT,IDT Corp.,11.29,0.008,297,26.2,0.209,0.5,8.8
+IESC,"IES Holdings, Inc.",20.12,0.0,427,15.2,0.0,0.6,10.8
+IHC,Independence Holding Co.,39.4,0.009000000000000001,587,19.3,0.172,0.6,13.9
+IIIN,"Insteel Industries, Inc.",20.99,0.006,404,24.0,0.13699999999999998,1.0,15.8
+IIPR,"Innovative Industrial Properties, Inc.",95.21,0.018000000000000002,1076,86.2,1.584,1.1,72.6
+IIVI,"II-VI, Inc.",39.04,0.0,2483,23.1,0.0,1.9,17.5
+ILPT,Industrial Logistics Properties Trust,21.92,0.06,1427,21.5,1.293,0.5,28.8
+IMAX,IMAX Corp.,21.85,0.0,1340,28.6,0.0,0.7,26.6
+IMKTA,"Ingles Markets, Inc.",39.36,0.017,558,9.8,0.16399999999999998,0.7,10.8
+INDB,Independent Bank Corp. (Massachusetts),73.93,0.022,2541,16.7,0.371,0.9,10.6
+INGN,"Inogen, Inc.",48.62,0.0,1066,25.0,0.0,1.2,19.5
+INN,"Summit Hotel Properties, Inc.",11.71,0.061,1231,13.4,0.8270000000000001,0.7,13.1
+INS,Intelligent Systems Corp.,49.21,0.0,436,51.3,0.0,1.3,47.9
+INT,World Fuel Services Corp.,39.65,0.006999999999999999,2592,18.7,0.132,1.2,10.1
+INVA,"Innoviva, Inc.",11.03,0.0,1117,2.9,0.0,0.7,5.1
+IOSP,"Innospec, Inc.",91.41,0.01,2238,24.3,0.252,1.2,14.4
+IPAR,"Inter Parfums, Inc.",67.61,0.015,2126,36.5,0.5579999999999999,0.7,19.4
+IPHS,"Innophos Holdings, Inc.",33.34,0.058,656,22.5,1.298,1.0,14.7
+IRBT,iRobot Corp.,60.07,0.0,1689,19.2,0.0,1.6,16.3
+IRMD,IRadimed Corp.,22.44,0.0,255,30.7,0.0,1.1,24.7
+IRT,"Independence Realty Trust, Inc.",14.44,0.05,1315,35.5,1.768,0.5,29.7
+ISBC,"Investors Bancorp, Inc. (New Jersey)",11.44,0.037000000000000005,3166,17.1,0.627,0.7,0.2
+ISCA,International Speedway Corp.,44.94,0.01,1954,25.9,0.271,0.3,16.7
+ITGR,Integer Holdings Corp.,79.55,0.0,2597,13.6,0.0,1.2,19.1
+ITRI,"Itron, Inc.",76.84,0.0,3032,49.4,0.0,1.4,28.0
+JACK,"Jack in the Box, Inc.",89.57,0.018000000000000002,2313,26.0,0.464,0.3,17.0
+JAG,"Jagged Peak Energy, Inc.",7.71,0.0,1645,15.4,0.0,1.5,14.3
+JBSS,"John B. Sanfilippo & Son, Inc.",93.76,0.027000000000000003,1068,27.2,0.7390000000000001,0.4,19.8
+JCAP,"Jernigan Capital, Inc.",19.61,0.071,436,8.7,0.622,0.5,9.9
+JCOM,"j2 Global, Inc.",90.77,0.019,4440,30.1,0.583,1.0,20.4
+JELD,"JELD-WEN Holding, Inc.",19.16,0.0,1927,18.2,0.0,1.1,17.0
+JOE,The St. Joe Co.,16.77,0.0,1010,57.1,0.0,0.8,45.0
+JOUT,"Johnson Outdoors, Inc.",57.24,0.01,575,13.3,0.13,0.8,6.5
+JRVR,James River Group Holdings Ltd.,49.95,0.024,1517,20.2,0.486,0.5,15.6
+JYNT,The Joint Corp. (United States),18.91,0.0,262,124.0,0.0,0.7,87.2
+KAI,"Kadant, Inc.",86.96,0.01,979,15.0,0.156,1.0,12.7
+KALU,Kaiser Aluminum Corp.,97.28,0.024,1557,17.1,0.405,1.1,11.1
+KAMN,Kaman Corp.,60.5,0.013,1686,32.1,0.425,1.0,20.0
+KBAL,"Kimball International, Inc.",19.55,0.016,722,18.3,0.3,0.8,10.6
+KBH,KB Home,31.47,0.003,2776,10.6,0.034,0.8,12.7
+KBR,"KBR, Inc.",25.39,0.013,3594,19.0,0.239,1.5,11.7
+KE,"Kimball Electronics, Inc.",14.96,0.0,383,12.2,0.0,1.0,9.3
+KELYA,"Kelly Services, Inc.",24.41,0.012,954,8.4,0.103,0.8,7.8
+KEM,KEMET Corp.,19.48,0.008,1130,5.3,0.041,2.1,5.4
+KFRC,"Kforce, Inc.",33.95,0.021,823,15.7,0.333,0.9,10.1
+KFY,Korn Ferry,37.97,0.011,2125,11.5,0.121,1.4,12.8
+KMT,"Kennametal, Inc.",30.51,0.026,2527,10.4,0.272,1.6,8.3
+KN,Knowles Corp.,20.01,0.0,1823,27.8,0.0,1.4,24.3
+KNL,"Knoll, Inc.",25.58,0.024,1273,14.8,0.358,0.9,11.8
+KNSL,"Kinsale Capital Group, Inc.",99.47,0.003,2200,43.1,0.13,0.6,36.6
+KOP,"Koppers Holdings, Inc.",29.64,0.0,613,19.7,0.0,1.3,13.4
+KRA,Kraton Corp.,32.3,0.0,1024,9.0,0.0,1.9,12.1
+KREF,"KKR Real Estate Finance Trust, Inc.",20.07,0.086,1152,13.9,1.1909999999999998,0.4,22.7
+KRNY,Kearny Financial Corp.,13.29,0.016,1164,28.3,0.447,0.6,12.1
+KRO,"Kronos Worldwide, Inc.",12.44,0.056,1441,12.4,0.6970000000000001,1.2,7.4
+KTOS,"Kratos Defense & Security Solutions, Inc.",20.58,0.0,2184,160.9,0.0,1.3,60.3
+KW,"Kennedy-Wilson Holdings, Inc.",22.16,0.037000000000000005,3159,35.4,1.3090000000000002,0.8,16.8
+LADR,Ladder Capital Corp.,17.22,0.078,2062,11.9,0.93,0.6,17.7
+LASR,"nLIGHT, Inc.",15.81,0.0,596,111.8,0.0,1.5,52.6
+LAUR,"Laureate Education, Inc.",17.39,0.0,3907,41.9,0.0,0.8,17.6
+LAWS,"Lawson Products, Inc.",39.55,0.0,356,48.9,0.0,0.4,36.0
+LBAI,"Lakeland Bancorp, Inc.",15.78,0.03,797,11.9,0.355,0.8,0.8
+LBC,Luther Burbank Corp.,11.42,0.02,641,13.9,0.279,0.6,5.6
+LBRT,"Liberty Oilfield Services, Inc.",10.93,0.018000000000000002,1298,8.0,0.147,1.4,7.1
+LCII,"LCI Industries, Inc.",93.63,0.026,2343,17.3,0.452,1.3,12.3
+LDL,"Lydall, Inc.",24.42,0.0,428,40.5,0.0,1.2,29.7
+LE,"Lands' End, Inc.",12.09,0.0,391,40.2,0.0,1.7,16.5
+LGIH,"LGI Homes, Inc.",81.35,0.0,1866,12.8,0.0,0.9,13.7
+LIND,"Lindblad Expeditions Holdings, Inc.",17.69,0.0,878,50.1,0.0,0.6,38.5
+LKFN,Lakeland Financial Corp. (Indiana),44.78,0.024,1147,13.3,0.322,0.8,2.4
+LMAT,"LeMaitre Vascular, Inc.",35.2,0.009000000000000001,699,37.3,0.329,0.8,20.4
+LNDC,Landec Corp.,10.76,0.0,314,636.7,0.0,0.5,53.3
+LNN,Lindsay Corp.,94.05,0.013,1014,180.1,2.375,1.1,89.5
+LNTH,"Lantheus Holdings, Inc.",26.38,0.0,1024,26.1,0.0,1.5,15.1
+LPX,Louisiana-Pacific Corp.,25.06,0.021,3098,18.8,0.397,0.7,11.1
+LRN,"K12, Inc.",26.07,0.0,1049,27.5,0.0,0.3,16.8
+LSCC,Lattice Semiconductor Corp.,19.48,0.0,2584,167.5,0.0,1.3,74.9
+LTC,"LTC Properties, Inc.",50.12,0.045,1992,18.7,0.85,0.4,19.5
+LTHM,Livent Corp.,7.28,0.0,1063,11.8,0.0,-0.2,8.2
+LTRPA,"Liberty TripAdvisor Holdings, Inc.",9.35,0.0,702,100.1,0.0,1.9,21.1
+LTXB,"LegacyTexas Financial Group, Inc.",43.52,0.02,2139,13.1,0.266,1.0,9.9
+LXFR,Luxfer Holdings Plc,15.95,0.031,437,117.5,3.682,1.0,42.2
+LXP,Lexington Realty Trust,10.36,0.054000000000000006,2567,8.5,0.459,0.6,10.3
+LZB,"La-Z-Boy, Inc.",32.32,0.016,1507,22.2,0.35100000000000003,0.9,14.1
+MANT,ManTech International Corp.,68.7,0.015,2747,31.2,0.473,1.1,31.1
+MATW,Matthews International Corp.,34.03,0.023,1072,17.2,0.4,0.9,15.9
+MATX,"Matson, Inc.",38.52,0.022,1651,17.7,0.386,1.3,16.8
+MBUU,"Malibu Boats, Inc.",30.79,0.0,631,9.7,0.0,1.3,6.8
+MBWM,Mercantile Bank Corp.,33.63,0.03,552,12.3,0.369,0.8,5.0
+MC,Moelis & Co.,34.23,0.057,2486,14.2,0.804,1.2,9.3
+MCBC,Macatawa Bank Corp.,10.64,0.025,362,12.3,0.311,0.8,2.5
+MCFT,"Mastercraft Boat Holdings, Inc.",14.54,0.0,273,12.7,0.0,1.4,6.3
+MCRI,"Monarch Casino & Resort, Inc.",43.83,0.0,791,22.8,0.0,1.1,20.4
+MCRN,Milacron Holdings Corp.,16.6,0.0,1171,48.4,0.0,1.4,18.6
+MCS,Marcus Corp.,36.3,0.017,1122,23.6,0.403,0.7,19.3
+MDC,"M.D.C. Holdings, Inc.",42.43,0.027000000000000003,2629,12.8,0.342,0.7,10.9
+MEDP,"Medpace Holdings, Inc.",85.0,0.0,3034,34.3,0.0,1.5,24.4
+MEI,"Methode Electronics, Inc.",34.54,0.013,1281,13.4,0.171,1.4,11.8
+MFSF,"MutualFirst Financial, Inc.",32.48,0.024,277,12.9,0.309,0.7,2.7
+MG,"MISTRAS Group, Inc.",16.03,0.0,460,12330.8,0.0,0.7,40.7
+MGEE,"MGE Energy, Inc.",75.51,0.018000000000000002,2618,30.6,0.5479999999999999,0.3,24.0
+MGLN,"Magellan Health, Inc.",62.12,0.0,1516,117.0,0.0,0.8,21.8
+MGPI,"MGP Ingredients, Inc.",51.71,0.006999999999999999,880,23.1,0.161,1.0,18.6
+MGRC,McGrath RentCorp,69.11,0.021,1676,19.2,0.397,0.8,14.5
+MHO,"M/I Homes, Inc.",37.65,0.0,1040,9.6,0.0,0.7,10.6
+MIK,"Michaels Cos., Inc.",8.66,0.0,1345,4.2,0.0,1.1,6.0
+MITT,"AG Mortgage Investment Trust, Inc.",15.58,0.128,510,27.4,3.513,0.4,28.7
+MJCO,Majesco,8.77,0.0,377,47.4,0.0,0.6,27.5
+MLHR,"Herman Miller, Inc.",45.33,0.018000000000000002,2677,15.5,0.274,1.0,12.6
+MLI,"Mueller Industries, Inc.",29.17,0.014,1653,18.0,0.247,1.2,10.7
+MLR,"Miller Industries, Inc. (Tennessee)",34.42,0.021,392,10.1,0.211,0.7,6.9
+MMI,"Marcus & Millichap, Inc.",36.4,0.0,1423,17.0,0.0,0.9,9.3
+MMS,"MAXIMUS, Inc.",78.03,0.01,4979,22.2,0.226,0.8,16.1
+MMSI,"Merit Medical Systems, Inc.",30.25,0.0,1669,42.2,0.0,0.7,37.3
+MNRO,"Monro, Inc.",76.75,0.011,2550,31.2,0.333,0.8,21.2
+MOD,Modine Manufacturing Co.,10.49,0.0,532,7.5,0.0,1.2,10.5
+MOFG,"MidWestOne Financial Group, Inc.",31.06,0.026,504,12.5,0.319,0.9,1.9
+MOG.A,"Moog, Inc.",83.85,0.012,2929,16.8,0.201,1.3,13.3
+MOV,"Movado Group, Inc.",24.18,0.027000000000000003,556,8.5,0.232,0.8,6.1
+MPX,Marine Products Corp.,15.08,0.029,513,18.1,0.527,0.8,14.0
+MRC,"MRC Global, Inc.",12.93,0.0,1075,21.4,0.0,1.5,15.2
+MRCY,"Mercury Systems, Inc.",83.21,0.0,4615,85.2,0.0,1.3,65.0
+MRLN,Marlin Business Services Corp.,24.36,0.023,298,12.8,0.294,0.6,4.3
+MRTN,Marten Transport Ltd.,21.33,0.005,1165,19.5,0.101,1.0,14.0
+MSBI,"Midland States Bancorp, Inc.",27.12,0.034,661,11.9,0.405,0.9,3.6
+MSEX,Middlesex Water Co.,63.66,0.0,1055,30.9,0.0,0.6,32.0
+MSGN,"MSG Networks, Inc.",17.0,0.0,1273,6.9,0.0,0.7,6.4
+MTDR,Matador Resources Co.,17.03,0.0,1986,11.4,0.0,2.0,12.3
+MTH,Meritage Homes Corp.,70.3,0.0,2691,13.3,0.0,0.8,12.6
+MTOR,"Meritor, Inc.",18.62,0.0,1538,5.6,0.0,1.3,5.2
+MTRN,Materion Corp.,64.02,0.006999999999999999,1306,41.1,0.273,1.1,33.7
+MTRX,Matrix Service Co.,17.22,0.0,467,16.5,0.0,1.3,10.8
+MTSC,MTS Systems Corp.,54.96,0.022,1063,21.6,0.471,0.8,16.9
+MTX,"Minerals Technologies, Inc.",53.25,0.004,1867,12.4,0.047,1.4,11.0
+MTZ,"MasTec, Inc.",63.17,0.0,4821,15.3,0.0,1.3,11.4
+MUSA,"Murphy USA, Inc.",86.78,0.0,2774,17.4,0.0,0.6,13.5
+MWA,"Mueller Water Products, Inc.",10.98,0.018000000000000002,1728,35.7,0.65,1.1,21.8
+MYGN,"Myriad Genetics, Inc.",27.3,0.0,2017,437.5,0.0,1.1,153.1
+MYRG,"MYR Group, Inc.",32.34,0.0,538,16.1,0.0,1.1,11.6
+NANO,"Nanometrics, Inc.",31.83,0.0,790,25.2,0.0,1.2,15.9
+NATH,"Nathan's Famous, Inc.",70.75,0.016,299,13.4,0.209,0.6,8.6
+NAV,Navistar International Corp.,28.41,0.0,2818,9.2,0.0,1.7,9.8
+NBHC,National Bank Holdings Corp.,36.37,0.018000000000000002,1133,15.1,0.278,0.9,3.9
+NBTB,"NBT Bancorp, Inc.",36.86,0.028,1614,13.6,0.381,0.8,5.8
+NC,"NACCO Industries, Inc.",56.81,0.012,397,9.1,0.11,0.6,4.8
+NCBS,"Nicolet Bankshares, Inc.",68.41,0.0,639,12.8,0.0,0.6,1.2
+NCMI,"National CineMedia, Inc.",8.5,0.08,1981,18.6,1.484,1.0,12.1
+NEO,"NeoGenomics, Inc.",21.84,0.0,2268,1011.1,0.0,1.1,180.5
+NEOG,Neogen Corp.,75.01,0.0,3929,65.1,0.0,1.1,50.0
+NESR,National Energy Services Reunited Corp.,6.75,0.0,587,9.2,0.0,0.5,10.2
+NEWM,"New Media Investment Group, Inc.",9.36,0.161,566,628.2,101.342,0.8,26.7
+NFBK,"Northfield Bancorp, Inc. (New Jersey)",15.92,0.026,784,20.7,0.532,0.6,3.1
+NGHC,National General Holdings Corp.,24.1,0.006999999999999999,2729,11.6,0.077,0.9,9.2
+NGVT,Ingevity Corp.,87.94,0.0,3681,21.5,0.0,1.7,17.7
+NHC,National HealthCare Corp.,83.89,0.024,1285,17.2,0.415,0.5,11.0
+NHI,"National Health Investors, Inc.",83.05,0.049,3601,23.0,1.137,0.3,25.2
+NJR,New Jersey Resources Corp.,44.36,0.026,3992,29.1,0.768,0.4,36.2
+NMIH,"NMI Holdings, Inc.",28.05,0.0,1901,14.1,0.0,1.4,5.5
+NMRK,"Newmark Group, Inc.",9.48,0.039,1684,13.5,0.526,1.3,8.9
+NNI,"Nelnet, Inc.",67.5,0.01,2679,21.0,0.218,0.7,26.5
+NODK,"NI Holdings, Inc.",16.72,0.0,369,9.1,0.0,0.4,6.1
+NOVT,"Novanta, Inc.",85.42,0.0,3000,53.6,0.0,1.4,35.5
+NP,"Neenah, Inc.",62.86,0.027000000000000003,1060,20.7,0.5670000000000001,0.9,16.7
+NPK,"National Presto Industries, Inc.",88.22,0.068,617,17.7,1.203,0.7,10.5
+NPO,"EnPro Industries, Inc.",68.74,0.014,1416,41.7,0.595,1.5,18.7
+NR,"Newpark Resources, Inc.",7.81,0.0,703,35.7,0.0,1.1,15.2
+NRC,National Research Corp.,62.68,0.012,1559,51.2,0.604,0.5,41.7
+NRE,NorthStar Realty Europe Corp.,17.0,0.035,855,4.7,0.165,0.5,5.1
+NSIT,"Insight Enterprises, Inc.",53.31,0.0,1908,11.3,0.0,1.1,6.9
+NSP,"Insperity, Inc.",99.47,0.01,4097,24.8,0.25,1.3,17.7
+NSSC,"Napco Security Technologies, Inc.",28.8,0.0,532,43.7,0.0,1.2,36.9
+NTGR,"NETGEAR, Inc.",30.66,0.0,954,90.7,0.0,1.0,26.0
+NUVA,"NuVasive, Inc.",66.72,0.0,3473,65.7,0.0,0.6,37.6
+NVEC,NVE Corp.,70.31,0.057,341,24.0,1.368,0.7,19.3
+NVEE,"NV5 Global, Inc.",72.86,0.0,930,29.4,0.0,1.4,22.0
+NWBI,"Northwest Bancshares, Inc. (Pennsylvania)",16.63,0.042,1773,16.3,0.684,0.6,4.5
+NWE,NorthWestern Corp.,74.68,0.03,3767,17.5,0.527,0.3,22.2
+NWN,Northwest Natural Holding Co.,71.42,0.027000000000000003,2174,30.2,0.8029999999999999,0.3,20.6
+NWPX,Northwest Pipe Co.,28.43,0.0,277,8.4,0.0,0.5,7.6
+NXGN,"NextGen Healthcare, Inc.",16.33,0.0,1056,45.6,0.0,1.1,30.4
+NYMT,"New York Mortgage Trust, Inc.",5.99,0.134,1401,11.1,1.4880000000000002,0.4,27.4
+OBNK,"Origin Bancorp, Inc.",33.87,0.004,795,15.4,0.059,0.7,5.5
+OCFC,OceanFirst Financial Corp.,23.04,0.029,1181,12.3,0.353,0.8,8.6
+ODC,Oil-Dri Corp. of America,34.81,0.028,265,20.9,0.5760000000000001,1.0,16.5
+OEC,Orion Engineered Carbons SA,16.59,0.048,999,11.2,0.541,1.3,13.7
+OFIX,"Orthofix Medical, Inc.",51.45,0.0,979,74.0,0.0,1.0,39.9
+OFLX,"Omega Flex, Inc.",99.83,0.01,1008,51.5,0.516,0.7,33.5
+OGS,"ONE Gas, Inc.",94.16,0.02,4966,27.8,0.5660000000000001,0.3,22.0
+OLBK,"Old Line Bancshares, Inc.",29.45,0.015,501,14.0,0.209,0.6,4.6
+OLP,"One Liberty Properties, Inc.",28.57,0.063,568,31.3,1.974,0.5,26.0
+OMCL,"Omnicell, Inc.",74.41,0.0,3100,62.9,0.0,1.1,42.1
+OMN,"OMNOVA Solutions, Inc.",10.08,0.0,452,75.4,0.0,0.9,31.5
+OPY,"Oppenheimer Holdings, Inc.",31.2,0.014,401,11.1,0.156,0.9,4.3
+ORA,"Ormat Technologies, Inc.",73.21,0.006,3733,41.9,0.24,0.8,22.9
+ORIT,Oritani Financial Corp.,17.79,0.056,802,15.0,0.846,0.5,9.9
+OSUR,"OraSure Technologies, Inc.",7.64,0.0,472,24.0,0.0,1.1,9.8
+OTTR,Otter Tail Corp.,54.34,0.025,2160,27.2,0.6859999999999999,0.5,21.1
+OXM,"Oxford Industries, Inc.",70.37,0.017,1199,16.8,0.29100000000000004,1.0,13.3
+PAHC,Phibro Animal Health Corp.,22.42,0.021,907,16.6,0.34,0.6,12.6
+PARR,"Par Pacific Holdings, Inc.",22.36,0.0,1141,11.4,0.0,0.6,21.2
+PATK,"Patrick Industries, Inc.",42.49,0.0,1014,9.6,0.0,1.3,8.2
+PAYS,"PaySign, Inc.",10.72,0.0,510,122.1,0.0,0.3,158.6
+PCB,PCB Bancorp,16.79,0.01,264,9.9,0.101,0.7,0.3
+PCH,PotlatchDeltic Corp.,41.07,0.039,2759,30.7,1.196,0.9,25.7
+PCRX,"Pacira Biosciences, Inc.",37.16,0.0,1547,201.4,0.0,0.8,55.3
+PCSB,PCSB Financial Corp.,20.65,0.006,365,41.0,0.258,0.3,15.7
+PCYO,Pure Cycle Corp.,10.92,0.0,260,120.4,0.0,0.9,177.2
+PDCE,"PDC Energy, Inc.",30.4,0.0,1905,16.2,0.0,1.7,13.5
+PDCO,"Patterson Cos., Inc.",17.64,0.059,1686,14.0,0.8240000000000001,0.8,11.5
+PDLB,PDL Community Bancorp,14.71,0.0,263,98.2,0.0,0.4,16.5
+PDM,"Piedmont Office Realty Trust, Inc.",20.64,0.041,2596,21.7,0.884,0.6,39.2
+PENN,"Penn National Gaming, Inc.",19.76,0.0,2290,24.1,0.0,1.4,6.6
+PETQ,"PetIQ, Inc.",27.23,0.0,774,128.3,0.0,1.3,47.4
+PETS,"PetMed Express, Inc.",17.16,0.063,346,11.5,0.721,0.7,6.4
+PFBC,Preferred Bank (California),53.7,0.021,823,10.9,0.233,0.9,1.9
+PFGC,Performance Food Group Co.,46.06,0.0,4846,28.7,0.0,0.6,21.5
+PFIS,Peoples Financial Services Corp.,46.15,0.029,341,12.8,0.3720000000000001,0.5,3.7
+PFS,"Provident Financial Services, Inc.",24.99,0.035,1665,12.8,0.452,0.6,1.2
+PFSI,"PennyMac Financial Services, Inc.",31.51,0.0,2477,11.5,0.0,0.7,8.8
+PGC,Peapack-Gladstone Financial Corp.,29.05,0.006999999999999999,565,12.6,0.087,0.7,0.3
+PGTI,"PGT Innovations, Inc.",16.73,0.0,980,19.1,0.0,1.0,13.4
+PJC,Piper Jaffray Cos.,77.39,0.019,1099,16.2,0.313,1.1,9.5
+PJT,"PJT Partners, Inc.",41.67,0.005,963,46.5,0.223,1.2,38.7
+PKE,Park Aerospace Corp.,18.52,0.022,380,35.9,0.775,0.5,20.8
+PKOH,Park-Ohio Holdings Corp.,31.51,0.016,393,8.1,0.128,1.1,9.0
+PLAB,"Photronics, Inc.",10.74,0.0,722,22.1,0.0,1.1,12.4
+PLAY,"Dave & Buster's Entertainment, Inc.",41.71,0.014,1286,13.3,0.191,0.9,12.1
+PLCE,"The Children's Place, Inc.",77.16,0.027000000000000003,1201,18.5,0.508,1.0,16.6
+PLOW,"Douglas Dynamics, Inc.",45.23,0.024,1031,20.9,0.498,0.8,14.7
+PLPC,Preformed Line Products Co.,54.95,0.015,276,11.5,0.16699999999999998,1.2,9.1
+PLUS,"ePlus, Inc.",77.0,0.0,1040,16.1,0.0,1.1,12.5
+PLXS,Plexus Corp.,61.42,0.0,1798,13.3,0.0,1.1,13.1
+PMT,PennyMac Mortgage Investment Trust,22.14,0.085,1944,8.8,0.747,0.4,4.9
+POL,PolyOne Corp.,31.56,0.024,2426,17.4,0.419,1.4,14.6
+POR,Portland General Electric Co.,56.49,0.026,5049,25.3,0.6579999999999999,0.2,22.4
+POWI,"Power Integrations, Inc.",91.44,0.006999999999999999,2682,45.7,0.33,1.5,55.1
+POWL,"Powell Industries, Inc.",39.21,0.027000000000000003,454,92.8,2.461,1.1,42.6
+PPBI,"Pacific Premier Bancorp, Inc.",31.77,0.014,1886,13.6,0.188,1.1,3.3
+PQG,"PQ Group Holdings, Inc.",15.88,0.0,2162,27.9,0.0,1.1,22.7
+PRA,ProAssurance Corp.,40.13,0.031,2157,43.1,1.332,0.8,34.9
+PRAA,"PRA Group, Inc.",35.22,0.0,1599,27.2,0.0,1.0,20.1
+PRFT,"Perficient, Inc.",37.96,0.0,1247,41.0,0.0,0.9,28.2
+PRGS,Progress Software Corp.,40.04,0.015,1791,34.2,0.516,1.0,25.2
+PRIM,Primoris Services Corp.,20.13,0.012,1026,12.1,0.145,0.9,9.0
+PRK,Park National Corp.,98.53,0.04,1617,15.9,0.634,0.7,4.8
+PRSP,"Perspecta, Inc.",26.3,0.0,4268,58.4,0.0,0.9,16.6
+PRTY,"Party City Holdco, Inc.",5.96,0.0,563,5.0,0.0,0.9,9.7
+PSDO,"Presidio, Inc.",15.96,0.01,1328,38.9,0.39,0.7,20.3
+PSMT,"PriceSmart, Inc.",60.34,0.012,1843,25.7,0.298,0.9,16.2
+PSN,Parsons Corp.,34.93,0.0,3473,34.1,0.0,0.0,15.4
+PTSI,"P.A.M. Transportation Services, Inc.",58.18,0.0,335,10.7,0.0,0.7,10.3
+PUB,People's Utah Bancorp,29.29,0.015,551,12.9,0.198,0.8,0.8
+PUMP,ProPetro Holding Corp.,9.45,0.0,949,4.2,0.0,1.4,4.0
+PVAC,Penn Virginia Corp.,32.75,0.0,495,2.1,0.0,1.7,3.6
+PZN,"Pzena Investment Management, Inc.",8.87,0.014,622,11.9,0.161,0.9,8.2
+QCRH,"QCR Holdings, Inc.",38.41,0.006,606,12.4,0.077,0.9,1.9
+QDEL,Quidel Corp.,64.19,0.0,2660,36.6,0.0,1.5,27.3
+QLYS,"Qualys, Inc.",78.07,0.0,3063,45.4,0.0,1.5,40.9
+QNST,"QuinStreet, Inc.",12.65,0.0,645,10.0,0.0,1.5,46.6
+RAVN,"Raven Industries, Inc.",34.44,0.015,1237,32.7,0.494,1.1,23.5
+RBB,RBB Bancorp,19.61,0.019,394,9.6,0.187,0.9,2.9
+RBBN,"Ribbon Communications, Inc.",5.78,0.0,636,117.7,0.0,1.0,31.4
+RBCAA,"Republic Bancorp, Inc. (Kentucky)",45.14,0.022,946,12.2,0.274,0.9,7.1
+RC,Ready Capital Corp.,16.32,0.098,725,8.3,0.8170000000000001,0.4,15.2
+RCII,"Rent-A-Center, Inc.",25.69,0.0,1394,11.9,0.0,0.4,8.3
+RDI,"Reading International, Inc.",12.9,0.0,293,45.1,0.0,0.5,32.0
+RDN,Radian Group Inc.,23.95,0.0,4869,8.2,0.003,1.2,5.5
+RDNT,"RadNet, Inc.",14.98,0.0,751,20.6,0.0,0.9,15.9
+RECN,"Resources Connection, Inc.",17.72,0.029,567,17.9,0.525,0.9,10.5
+RES,"RPC, Inc.",5.7,0.061,1223,17.9,1.098,1.1,12.0
+REXR,"Rexford Industrial Realty, Inc.",44.12,0.016,4842,109.3,1.71,0.6,74.0
+RGEN,Repligen Corp.,81.79,0.0,4215,137.2,0.0,1.4,113.1
+RGR,"Sturm, Ruger & Co., Inc.",42.16,0.027000000000000003,737,18.0,0.479,0.6,10.5
+RHP,"Ryman Hospitality Properties, Inc.",82.1,0.043,4223,16.2,0.69,0.8,17.6
+RILY,"B. Riley Financial, Inc.",24.94,0.013,673,27.1,0.34700000000000003,0.9,9.3
+RLGT,"Radiant Logistics, Inc.",5.21,0.0,259,18.8,0.0,1.0,10.4
+RLGY,Realogy Holdings Corp.,6.11,0.059,699,15.8,0.932,1.0,10.6
+RLI,RLI Corp.,92.07,0.01,4124,32.9,0.318,0.7,27.8
+RLJ,RLJ Lodging Trust,17.3,0.076,2978,22.2,1.692,0.9,17.9
+RM,Regional Management Corp.,27.72,0.0,318,9.3,0.0,0.7,11.9
+RMAX,"RE/MAX Holdings, Inc.",28.47,0.029,508,18.5,0.532,0.9,2.6
+RMR,"The RMR Group, Inc.",45.29,0.029,1415,9.9,0.28300000000000003,1.4,3.5
+RNST,Renasant Corp.,35.01,0.024,2040,11.9,0.28600000000000003,1.0,1.8
+ROAD,"Construction Partners, Inc.",16.0,0.0,829,19.7,0.0,0.8,15.1
+ROCK,"Gibraltar Industries, Inc.",46.2,0.0,1489,25.2,0.0,0.7,14.6
+ROIC,Retail Opportunity Investments Corp.,18.39,0.043,2102,46.9,1.997,0.6,32.2
+RPT,RPT Realty,13.21,0.067,1059,89.3,5.9460000000000015,0.6,32.0
+RRR,"Red Rock Resorts, Inc.",21.24,0.019,2490,47.3,0.8909999999999999,1.5,29.1
+RTEC,"Rudolph Technologies, Inc.",25.65,0.0,798,28.3,0.0,1.1,17.3
+RUSHA,"Rush Enterprises, Inc.",39.1,0.012,1421,8.8,0.109,0.8,12.5
+RUSHB,"Rush Enterprises, Inc.",40.78,0.012,1482,9.2,0.109,0.8,12.6
+RUTH,"Ruth's Hospitality Group, Inc.",19.75,0.024,594,13.9,0.338,0.6,11.9
+RVI,"Retail Value, Inc.",37.36,0.0,712,56.5,0.0,0.5,21.2
+RWT,"Redwood Trust, Inc.",16.58,0.07200000000000001,1858,12.1,0.879,0.3,24.4
+RXN,Rexnord Corp.,27.64,0.0,2926,45.0,0.0,1.5,11.5
+RYI,Ryerson Holding Corp.,8.91,0.0,337,2.7,0.0,1.4,5.6
+SAFE,Safehold Inc.,29.58,0.02,1196,33.5,0.685,0.5,38.3
+SAH,"Sonic Automotive, Inc.",28.81,0.011,1243,11.7,0.13,1.0,10.9
+SAIA,"Saia, Inc.",93.01,0.0,2410,21.3,0.0,1.1,16.1
+SAIC,Science Applications International Corp.,84.36,0.016,4992,29.8,0.48,1.1,28.2
+SALT,"Scorpio Bulkers, Inc.",6.15,0.013,446,17.4,0.226,1.5,12.6
+SANM,Sanmina Corp.,31.76,0.0,2210,17.2,0.0,1.3,9.2
+SASR,"Sandy Spring Bancorp, Inc.",35.49,0.032,1264,11.2,0.358,0.8,2.9
+SAVE,"Spirit Airlines, Inc.",38.03,0.0,2603,7.2,0.0,1.1,6.4
+SBCF,Seacoast Banking Corp. of Florida,25.72,0.0,1324,16.5,0.0,1.1,2.1
+SBH,"Sally Beauty Holdings, Inc.",14.33,0.0,1727,6.7,0.0,0.8,6.7
+SBRA,"Sabra Health Care REIT, Inc.",22.69,0.079,4300,199.0,15.789,0.6,40.4
+SBT,"Sterling Bancorp, Inc. (Michigan)",10.12,0.004,511,8.7,0.035,0.9,5.1
+SCHL,Scholastic Corp.,39.96,0.015,1393,79.3,1.1909999999999998,0.9,32.9
+SCHN,"Schnitzer Steel Industries, Inc.",23.53,0.032,630,6.2,0.197,1.2,7.1
+SCL,Stepan Co.,96.32,0.01,2173,21.3,0.215,0.9,15.1
+SCS,"Steelcase, Inc.",18.39,0.03,2153,16.0,0.486,0.8,10.6
+SCSC,"ScanSource, Inc.",30.18,0.0,762,13.4,0.0,1.2,11.3
+SCVL,"Shoe Carnival, Inc.",32.22,0.01,473,12.2,0.123,1.2,7.7
+SEAS,"SeaWorld Entertainment, Inc.",27.01,0.0,2125,22.9,0.0,0.9,17.6
+SEM,Select Medical Holdings Corp.,16.98,0.0,2303,16.1,0.0,0.8,12.4
+SF,Stifel Financial Corp.,57.3,0.009000000000000001,3987,10.0,0.094,1.3,2.5
+SFBS,"ServisFirst Bancshares, Inc.",33.3,0.017,1783,12.6,0.211,1.0,2.0
+SFE,"Safeguard Scientifics, Inc.",12.35,0.0,255,3.5,0.0,0.7,2.1
+SFIX,"Stitch Fix, Inc.",19.64,0.0,1981,40.2,0.0,1.6,53.0
+SFL,Ship Finance International Ltd.,14.1,0.099,1517,16.0,1.587,0.8,11.9
+SFLY,"Shutterfly, Inc.",50.9,0.0,1751,203.8,0.0,0.8,40.0
+SFNC,Simmons First National Corp.,25.41,0.024,2455,11.1,0.27,1.0,2.1
+SFST,"Southern First Bancshares, Inc.",41.22,0.0,312,12.4,0.0,0.6,3.3
+SGH,"SMART Global Holdings, Inc.",32.11,0.0,741,9.6,0.0,1.4,6.3
+SHEN,Shenandoah Telecommunications Co. (Virginia),32.27,0.0,1609,27.9,0.0,0.9,20.6
+SHO,"Sunstone Hotel Investors, Inc.",13.9,0.05,3126,14.9,0.74,0.8,11.9
+SHOO,Steven Madden Ltd.,34.36,0.016,2916,20.0,0.322,1.3,13.7
+SIC,"Select Interior Concepts, Inc.",13.34,0.0,334,1515.9,0.0,0.5,28.7
+SIEB,Siebert Financial Corp.,9.61,0.0,261,24.9,0.0,1.1,44.1
+SIGA,"SIGA Technologies, Inc.",5.55,0.0,450,1.0,0.0,1.2,0.9
+SIGI,"Selective Insurance Group, Inc.",74.39,0.01,4417,18.7,0.197,0.7,15.8
+SITE,"SiteOne Landscape Supply, Inc.",74.48,0.0,3069,44.6,0.0,1.1,33.4
+SJI,"South Jersey Industries, Inc.",32.31,0.035,2985,40.6,1.436,0.5,30.5
+SJW,SJW Group,67.9,0.017,1931,37.0,0.632,0.4,25.8
+SKT,"Tanger Factory Outlet Centers, Inc.",15.71,0.08900000000000001,1470,20.3,1.811,0.6,21.1
+SKYW,"Sky West, Inc.",58.64,0.008,2986,9.3,0.07,1.2,9.6
+SLP,"Simulations Plus, Inc.",37.2,0.006,652,82.7,0.5329999999999999,1.0,58.4
+SM,SM Energy Co.,10.83,0.009000000000000001,1222,26.0,0.24,2.1,17.8
+SMBC,"Southern Missouri Bancorp, Inc.",37.19,0.014,342,11.8,0.165,0.6,2.8
+SMBK,"SmartFinancial, Inc.",21.44,0.0,299,11.9,0.0,0.7,0.5
+SMMF,"Summit Financial Group, Inc. (West Virginia)",27.18,0.021,339,11.3,0.233,0.8,3.3
+SMP,"Standard Motor Products, Inc.",47.63,0.018000000000000002,1063,21.0,0.389,0.9,12.0
+SMPL,The Simply Good Foods Co.,29.23,0.0,2392,42.5,0.0,1.0,29.6
+SMTC,Semtech Corp.,46.67,0.0,3105,69.7,0.0,1.8,30.6
+SNBR,Sleep Number Corp.,43.15,0.0,1265,18.4,0.0,1.4,13.7
+SOI,"Solaris Oilfield Infrastructure, Inc.",13.6,0.022,647,7.5,0.165,1.4,6.6
+SONA,"Southern National Bancorp of Virginia, Inc.",15.57,0.022,376,11.7,0.256,0.6,4.3
+SONO,"Sonos, Inc.",14.91,0.0,1585,62.2,0.0,1.3,41.2
+SP,SP Plus Corp.,37.44,0.0,859,17.4,0.0,0.8,13.6
+SPAR,"Spartan Motors, Inc.",13.66,0.006999999999999999,482,40.2,0.294,0.7,28.0
+SPSC,"SPS Commerce, Inc.",48.52,0.0,1693,54.6,0.0,1.1,45.4
+SPTN,SpartanNash Co.,11.9,0.062,432,96.2,5.982,0.9,24.4
+SPXC,SPX Corp.,40.8,0.0,1797,26.8,0.0,1.2,21.6
+SR,"Spire, Inc. (Missouri)",86.27,0.027000000000000003,4383,22.9,0.62,0.4,22.3
+SRCE,1st Source Corp.,46.82,0.022,1196,14.0,0.31,0.9,1.4
+SRDX,"SurModics, Inc.",46.55,0.0,628,274.3,0.0,1.4,70.2
+SRI,"Stoneridge, Inc.",31.0,0.0,849,11.7,0.0,0.9,9.6
+SSB,South State Corp.,76.05,0.02,2597,15.0,0.294,0.9,2.7
+SSD,"Simpson Manufacturing Co., Inc.",68.44,0.013,3058,25.4,0.33,0.9,16.8
+SSP,The E.W. Scripps Co.,13.32,0.015,1077,32.7,0.491,1.1,22.4
+SSTK,"Shutterstock, Inc.",36.74,0.08199999999999999,1297,38.8,3.1710000000000003,1.0,28.5
+STAA,STAAR Surgical Co.,29.91,0.0,1332,168.4,0.0,1.8,126.2
+STBA,"S&T Bancorp, Inc.",37.07,0.029,1277,12.0,0.344,0.8,7.6
+STC,Stewart Information Services Corp.,36.79,0.033,872,21.0,0.684,0.5,10.4
+STMP,"Stamps.com, Inc.",71.44,0.0,1226,12.1,0.0,1.3,7.6
+STRL,"Sterling Construction Co., Inc.",13.18,0.0,349,14.5,0.0,1.1,7.5
+STXB,"Spirit of Texas Bancshares, Inc.",21.32,0.0,337,17.1,0.0,0.3,2.2
+SUM,"Summit Materials, Inc.",22.02,0.0,2468,124.6,0.0,1.5,21.7
+SUPN,"Supernus Pharmaceuticals, Inc.",29.42,0.0,1543,14.7,0.0,1.3,9.1
+SWM,"Schweitzer-Mauduit International, Inc.",37.21,0.047,1150,13.3,0.626,0.9,10.9
+SWX,"Southwest Gas Holdings, Inc.",91.51,0.023,4971,24.1,0.555,0.4,19.9
+SXC,"SunCoke Energy, Inc.",6.4,0.0,584,16.3,0.0,1.5,12.7
+SXI,Standex International Corp.,73.96,0.011,920,19.6,0.207,1.1,12.6
+SXT,Sensient Technologies Corp.,68.88,0.02,2915,19.8,0.405,0.8,17.7
+SYBT,"Stock Yards Bancorp, Inc.",37.76,0.027000000000000003,858,14.1,0.377,0.7,4.6
+SYKE,"Sykes Enterprises, Inc.",30.99,0.0,1289,24.3,0.0,0.9,16.0
+SYNH,"Syneos Health, Inc.",54.92,0.0,5683,343.7,0.0,1.5,38.4
+SYX,"Systemax, Inc.",21.82,0.021,818,21.9,0.461,1.2,9.6
+TACO,"Del Taco Restaurants, Inc.",10.47,0.0,388,26.5,0.0,0.6,19.0
+TALO,"Talos Energy, Inc.",24.02,0.0,1302,4.3,0.0,1.5,4.1
+TBI,"TrueBlue, Inc.",20.91,0.0,838,12.3,0.0,1.1,9.6
+TBK,"Triumph Bancorp, Inc.",32.27,0.0,846,15.7,0.0,1.0,5.3
+TBNK,"Territorial Bancorp, Inc.",29.41,0.03,284,12.9,0.387,0.4,8.2
+TCI,"Transcontinental Realty Investors, Inc.",32.13,0.0,280,1.7,0.0,0.7,3.1
+TCMD,"Tactile Systems Technology, Inc.",49.39,0.0,937,110.1,0.0,1.1,182.4
+TCX,"Tucows, Inc.",55.21,0.0,589,38.6,0.0,0.8,21.7
+TEX,Terex Corp.,27.39,0.015,1950,527.7,8.092,1.5,10.0
+TG,Tredegar Corp.,18.68,0.024,623,23.7,0.557,1.2,14.8
+TGH,Textainer Group Holdings Ltd.,10.29,0.0,591,18.7,0.0,1.1,21.1
+TGNA,"TEGNA, Inc.",15.12,0.019,3276,7.9,0.147,1.1,8.7
+THR,"Thermon Group Holdings, Inc.",22.95,0.0,751,35.3,0.0,1.1,19.4
+THRM,"Gentherm, Inc.",41.09,0.0,1355,59.7,0.0,1.1,25.0
+TILE,"Interface, Inc.",13.33,0.02,779,15.5,0.302,1.1,16.1
+TITN,"Titan Machinery, Inc.",14.69,0.0,328,23.8,0.0,1.5,26.5
+TLYS,"Tilly's, Inc.",9.93,0.0,294,12.2,0.0,1.1,5.8
+TMHC,Taylor Morrison Home Corp.,25.12,0.0,2645,11.7,0.0,0.7,12.3
+TMP,Tompkins Financial Corp.,82.62,0.024,1247,15.8,0.377,0.7,5.0
+TNC,Tennant Co.,71.0,0.012,1293,34.1,0.418,1.1,23.6
+TNET,"TriNet Group, Inc.",65.45,0.0,4577,24.3,0.0,1.4,17.3
+TOWN,TowneBank,27.89,0.024,2010,14.3,0.338,0.9,1.6
+TOWR,"Tower International, Inc.",30.95,0.016,640,64.1,1.056,0.9,10.4
+TPB,"Turning Point Brands, Inc.",24.99,0.006999999999999999,491,14.9,0.105,0.9,14.7
+TPH,"TRI Pointe Group, Inc.",14.87,0.0,2115,11.3,0.0,0.7,13.5
+TR,"Tootsie Roll Industries, Inc.",36.48,0.01,2391,40.9,0.395,0.3,18.6
+TREX,"Trex Co., Inc.",87.33,0.0,5102,42.0,0.0,1.4,30.7
+TRMK,Trustmark Corp.,34.13,0.027000000000000003,2198,15.2,0.409,0.8,0.6
+TRNO,Terreno Realty Corp.,51.27,0.019,3360,53.1,0.995,0.5,48.1
+TRS,TriMas Corp.,30.88,0.0,1397,17.5,0.0,0.9,13.9
+TRST,TrustCo Bank Corp. NY,8.26,0.033,800,13.2,0.436,0.7,2.1
+TRTN,Triton International Ltd.,34.46,0.06,2546,7.9,0.476,1.1,13.1
+TRTX,"TPG RE Finance Trust, Inc.",20.42,0.084,1513,12.1,1.02,0.4,10.8
+TSC,"TriState Capital Holdings, Inc.",21.32,0.0,625,10.6,0.0,0.9,1.6
+TSE,Trinseo SA,43.97,0.036000000000000004,1768,4.3,0.158,2.0,20.2
+TTEC,"TTEC Holdings, Inc.",49.59,0.012,2305,40.6,0.474,1.1,20.6
+TTEK,"Tetra Tech, Inc.",84.38,0.006,4611,26.4,0.16,1.1,22.1
+TTGT,"TechTarget, Inc.",24.72,0.0,684,49.5,0.0,1.2,34.9
+TTMI,"TTM Technologies, Inc.",12.29,0.0,1297,16.0,0.0,1.3,16.7
+TUP,Tupperware Brands Corp.,15.68,0.121,765,5.8,0.7,0.7,5.0
+TVTY,"Tivity Health, Inc.",17.22,0.0,824,9.5,0.0,0.8,13.9
+TWNK,"Hostess Brands, Inc.",14.05,0.0,1831,27.1,0.0,0.4,23.2
+TXRH,"Texas Roadhouse, Inc.",51.54,0.021,3586,23.8,0.509,0.6,18.8
+TYPE,"Monotype Imaging Holdings, Inc.",19.79,0.023,831,31.8,0.747,0.7,19.2
+UBA,"Urstadt Biddle Properties, Inc.",23.64,0.046,942,37.7,1.744,0.6,25.9
+UBNK,"United Financial Bancorp, Inc.",13.86,0.035,705,18.6,0.644,0.8,2.9
+UBSI,"United Bankshares, Inc. (West Virginia)",38.39,0.035,3911,15.2,0.54,0.9,3.8
+UCFC,United Community Financial Corp.,10.91,0.026,525,14.1,0.361,0.7,4.7
+UE,Urban Edge Properties,19.43,0.045,2354,27.4,1.239,0.7,21.3
+UFCS,"United Fire Group, Inc.",46.26,0.027000000000000003,1168,52.7,1.4369999999999998,0.3,46.9
+UFI,"Unifi, Inc.",22.11,0.0,409,165.5,0.0,0.9,29.2
+UFPI,"Universal Forest Products, Inc.",39.59,0.01,2430,15.1,0.145,1.1,11.2
+UFPT,"UFP Technologies, Inc.",39.5,0.0,293,17.3,0.0,0.7,13.7
+UIS,Unisys Corp.,7.8,0.0,487,10.6,0.0,1.3,3.5
+ULH,"Universal Logistics Holdings, Inc.",24.47,0.017,668,11.3,0.194,1.2,9.5
+UNIT,"Uniti Group, Inc.",7.95,0.16399999999999998,1535,27.1,4.437,1.2,15.2
+USCR,"U.S. Concrete, Inc.",46.83,0.0,780,49.5,0.0,1.3,18.7
+USLM,"United States Lime & Minerals, Inc.",77.66,0.006999999999999999,436,21.8,0.152,0.3,15.1
+USNA,"USANA Health Sciences, Inc.",68.83,0.0,1532,15.0,0.0,0.6,7.8
+UTL,UNITIL Corp.,62.4,0.024,931,21.0,0.494,0.3,16.2
+UTMD,"Utah Medical Products, Inc.",97.76,0.011,364,21.7,0.243,0.6,18.5
+UVSP,Univest Financial Corp.,26.1,0.031,765,11.6,0.35700000000000004,0.8,7.8
+UVV,Universal Corp.,54.68,0.055,1365,14.8,0.8140000000000001,0.4,9.4
+VBTX,"Veritex Holdings, Inc.",24.85,0.01,1329,17.6,0.177,1.0,4.6
+VC,Visteon Corp.,76.88,0.0,2149,26.3,0.0,1.5,17.1
+VEC,"Vectrus, Inc.",41.0,0.0,472,13.4,0.0,1.0,9.8
+VG,Vonage Holdings Corp.,12.23,0.0,2961,444.7,0.0,1.3,212.3
+VGR,Vector Group Ltd.,11.31,0.132,1672,21.2,2.782,0.7,9.1
+VIAV,"Viavi Solutions, Inc.",14.66,0.0,3355,631.9,0.0,1.1,44.4
+VICR,Vicor Corp.,31.11,0.0,1253,47.0,0.0,1.8,42.4
+VIVO,"Meridian Bioscience, Inc.",9.87,0.0,422,16.3,0.0,0.5,12.1
+VLGEA,"Village Super Market, Inc.",25.83,0.039,372,13.5,0.522,0.5,6.6
+VLY,Valley National Bancorp,10.98,0.04,3643,11.3,0.454,0.9,6.8
+VNDA,"Vanda Pharmaceuticals, Inc.",13.21,0.0,704,24.5,0.0,1.2,20.1
+VPG,"Vishay Precision Group, Inc.",34.88,0.0,472,19.0,0.0,1.1,9.8
+VRA,"Vera Bradley, Inc.",9.76,0.0,332,20.8,0.0,0.8,7.1
+VREX,Varex Imaging Corp.,28.64,0.0,1100,143.7,0.0,1.2,43.7
+VRNT,"Verint Systems, Inc.",45.08,0.0,3010,50.5,0.0,1.0,31.8
+VRS,Verso Corp.,11.97,0.0,412,4.3,0.0,1.3,3.4
+VRTU,Virtusa Corp.,38.75,0.0,1172,48.5,0.0,1.3,20.8
+VSEC,VSE Corp.,34.14,0.01,375,10.4,0.101,1.1,11.2
+VSH,"Vishay Intertechnology, Inc.",17.28,0.02,2496,8.3,0.168,1.5,4.7
+VVI,Viad Corp.,67.02,0.006,1361,44.7,0.267,0.9,30.9
+WAFD,"Washington Federal, Inc.",37.49,0.02,2977,14.6,0.29600000000000004,0.8,7.9
+WAIR,"Wesco Aircraft Holdings, Inc.",10.97,0.0,1094,26.0,0.0,1.0,19.3
+WASH,"Washington Trust Bancorp, Inc.",49.45,0.038,857,12.4,0.47,0.7,5.3
+WBT,"Welbilt, Inc.",16.87,0.0,2380,34.6,0.0,1.0,20.1
+WD,"Walker & Dunlop, Inc.",56.49,0.019,1736,10.2,0.198,1.1,8.1
+WDR,"Waddell & Reed Financial, Inc.",17.19,0.058,1256,8.4,0.487,1.1,1.9
+WERN,"Werner Enterprises, Inc.",34.36,0.01,2378,13.4,0.14,1.0,10.6
+WETF,"WisdomTree Investments, Inc.",5.57,0.022,864,45.1,0.971,1.2,24.1
+WGO,"Winnebago Industries, Inc.",40.03,0.01,1266,11.5,0.121,1.0,7.8
+WHD,"Cactus, Inc.",29.97,0.0,2251,14.1,0.0,1.2,10.4
+WHG,"Westwood Holdings Group, Inc.",28.75,0.099,257,18.5,1.83,0.7,8.1
+WING,"Wingstop, Inc.",87.53,0.004,2577,127.8,0.526,0.7,81.7
+WIRE,Encore Wire Corp. (Delaware),56.05,0.001,1172,14.6,0.021,1.0,9.3
+WLDN,"Willdan Group, Inc.",38.85,0.0,437,65.1,0.0,0.8,50.5
+WLFC,Willis Lease Finance Corp.,56.9,0.0,333,5.3,0.0,0.7,10.9
+WLH,"William Lyon Homes, Inc.",20.29,0.0,768,9.6,0.0,1.0,17.1
+WLL,Whiting Petroleum Corp.,9.63,0.0,879,3.5,0.0,2.2,8.4
+WMC,Western Asset Mortgage Capital Corp.,10.1,0.123,538,11.1,1.357,0.5,11.0
+WMK,"Weis Markets, Inc.",38.56,0.032,1037,16.7,0.532,0.4,11.7
+WNC,Wabash National Corp.,14.82,0.021,807,13.3,0.282,1.1,9.3
+WNEB,"Western New England Bancorp, Inc.",9.81,0.018000000000000002,261,18.7,0.344,0.6,4.9
+WOR,"Worthington Industries, Inc.",37.53,0.025,2107,14.0,0.343,1.4,11.2
+WOW,"WideOpenWest, Inc.",6.35,0.0,536,7.9,0.0,0.8,11.4
+WRE,Washington Real Estate Investment Trust,27.27,0.044,2184,290.1,12.765999999999998,0.6,71.4
+WSBC,"WesBanco, Inc.",37.97,0.032,2077,12.6,0.399,0.8,4.0
+WSBF,"Waterstone Financial, Inc.",17.29,0.028,475,15.1,0.42,0.3,11.4
+WSFS,WSFS Financial Corp.,44.45,0.01,2355,14.0,0.142,0.8,0.6
+WSR,Whitestone REIT,13.43,0.085,540,29.5,2.504,0.6,23.6
+WTBA,"West Bancorporation, Inc.",22.2,0.036000000000000004,364,13.0,0.473,0.9,1.0
+WTS,"Watts Water Technologies, Inc.",94.79,0.009000000000000001,3215,25.3,0.23,1.1,16.8
+WTTR,"Select Energy Services, Inc.",9.02,0.0,958,35.1,0.0,1.1,17.6
+WW,"Weight Watchers International, Inc.",37.12,0.0,2498,15.8,0.0,0.1,11.1
+WWW,"Wolverine World Wide, Inc.",27.93,0.013,2381,14.8,0.191,0.9,12.3
+XAN,Exantas Capital Corp.,11.66,0.064,372,14.5,0.93,0.5,9.2
+XHR,"Xenia Hotels & Resorts, Inc.",21.41,0.051,2412,17.5,0.897,0.9,16.8
+XNCR,"Xencor, Inc.",36.91,0.0,2090,42.4,0.0,1.4,33.5
+XPER,Xperi Corp.,20.36,0.039,1005,32.3,1.269,1.3,21.6
+YELP,"Yelp, Inc.",35.47,0.0,2519,47.7,0.0,1.3,61.1
+YETI,"YETI Holdings, Inc.",28.94,0.0,2457,36.5,0.0,-0.2,25.0
+YORW,York Water Co.,41.27,0.017,536,38.1,0.634,0.5,26.8
+ZUMZ,"Zumiez, Inc.",30.65,0.0,790,14.4,0.0,1.2,8.1
+ZYXI,"Zynex, Inc.",9.99,0.0,324,33.2,0.0,0.6,25.1
