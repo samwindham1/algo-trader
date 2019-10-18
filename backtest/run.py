@@ -9,8 +9,8 @@ from backtrader import TimeFrame
 from .util import commission, observers, analyzers
 
 
-def run_strategy(strategy, tickers=None, start=1900, end=2100,
-                 cash=100000.0, verbose=False, plot=False, plotreturns=False):
+def run_strategy(strategy, tickers=None, start=1900, end=2100, cash=100000.0,
+                 verbose=False, plot=False, plotreturns=False, kwargs=None):
     start_date = datetime.datetime(start, 1, 1)
     end_date = datetime.datetime(end, 1, 1)
 
@@ -23,7 +23,7 @@ def run_strategy(strategy, tickers=None, start=1900, end=2100,
     cerebro = bt.Cerebro(stdstats=not plotreturns)
 
     # Add a strategy
-    cerebro.addstrategy(strategy)
+    cerebro.addstrategy(strategy, kwargs=kwargs)
 
     # Set up data feed
     for ticker in tickers:
@@ -94,17 +94,19 @@ if __name__ == '__main__':
     PARSER.add_argument('-v', '--verbose', action="store_true")
     PARSER.add_argument('-p', '--plot', action="store_true")
     PARSER.add_argument('--plotreturns', action="store_true")
+    PARSER.add_argument('-k', '--kwargs', nargs='+')
     ARGS = PARSER.parse_args()
     ARG_ITEMS = vars(ARGS)
-    STRATEGY_ARGS = {}
 
-    # Parse multiple tickers
-    STRATEGY_ARGS['tickers'] = ARG_ITEMS['tickers']
+    # Parse multiple tickers / kwargs
+    TICKERS = ARG_ITEMS['tickers']
+    KWARGS = ARG_ITEMS['kwargs']
     del ARG_ITEMS['tickers']
+    del ARG_ITEMS['kwargs']
 
-    # Remove None Values
-    for arg, val in ARG_ITEMS.items():
-        if val:
-            STRATEGY_ARGS[arg] = val[0] if isinstance(val, list) else val
+    # Remove None values
+    STRATEGY_ARGS = {k: (v[0] if isinstance(v, list) else v) for k, v in ARG_ITEMS.items() if v}
+    STRATEGY_ARGS['tickers'] = TICKERS
+    STRATEGY_ARGS['kwargs'] = KWARGS
 
     run_strategy(**STRATEGY_ARGS)
