@@ -1,4 +1,4 @@
-Ticker,Name,Price,Dividend Yield,Market Cap,P/E Ratio,Payout Ratio,Beta,EV/EBIT Ratio
+﻿Ticker,Name,Price,Dividend Yield,Market Cap,P/E Ratio,Payout Ratio,Beta,EV/EBIT Ratio
 AAN,"Aaron's, Inc.",60.2,0.002,4066,20,0.045,0.9,15.8
 AAOI,"Applied Optoelectronics, Inc.",11.15,0,223,-6.5,0,1.6,
 AAON,"AAON, Inc.",48.9,0.007,2548,50.5,0.33,1.2,36.3
@@ -1384,7 +1384,7 @@ PFBC,Preferred Bank (California),53.7,0.021,823,10.9,0.233,0.9,1.9
 PFBI,"Premier Financial Bancorp, Inc.",17.77,0.034,260,11.2,0.378,0.6,-5.1
 PFGC,Performance Food Group Co.,46.06,0,4846,28.7,0,0.6,21.5
 PFIS,Peoples Financial Services Corp.,46.15,0.029,341,12.8,0.372,0.5,3.7
-PFNX,"Pf�nex, Inc.",8.75,0,276,-9.6,0,0.8,
+PFNX,"Pfênex, Inc.",8.75,0,276,-9.6,0,0.8,
 PFS,"Provident Financial Services, Inc.",24.99,0.035,1665,12.8,0.452,0.6,1.2
 PFSI,"PennyMac Financial Services, Inc.",31.51,0,2477,11.5,0,0.7,8.8
 PGC,Peapack-Gladstone Financial Corp.,29.05,0.007,565,12.6,0.087,0.7,0.3

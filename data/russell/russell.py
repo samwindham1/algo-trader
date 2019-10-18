@@ -31,6 +31,8 @@ def small_cap():
 
     # filter low-liquid stocks
     df_filter = (
+        info_df['marketCap'] > 100000
+    ) & (
         info_df['averageDailyVolume3Month'] > info_df['averageDailyVolume3Month'].quantile(0.05)
     ) & (
         info_df['turnover'] < info_df['turnover'].quantile(.95)
