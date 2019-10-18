@@ -19,6 +19,7 @@ def download_all_info(tickers):
     tasks = [event_loop.create_task(c) for c in coroutines]
 
     # run event loop concurrently
+    print("Tasks created, running event loop:")
     event_loop.run_until_complete(asyncio.wait(tasks))
 
     # get results
