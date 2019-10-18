@@ -1,1 +1,1 @@
-from . import spy, tickers
+from . import tickers
