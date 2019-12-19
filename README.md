@@ -50,3 +50,36 @@ Backtest results:
 | CAGR          | 8.50%   | 7.19%   |
 | Sharpe        | 0.43412 | 0.30127 |
 | Sortino       | 0.58252 | 0.40374 |
+
+#### MeanReversion
+
+This strategy has been successful for the S&P 100 stocks.
+
+##### Possible Enhancements:
+
+[Quantopian: Enhancing short term mean reversion strategies](https://www.quantopian.com/posts/enhancing-short-term-mean-reversion-strategies-1)
+
+- Filter out large 1-day news-realted moves
+  - (Sort by 5d standard-deviation of returns)
+
+Backtest results:
+
+##### 2013 - 2018 (60d lookback, 5d rebalance)
+
+| Method        | Value   | SPY     |
+| ------------- | ------- | ------- |
+| Total Returns | 133.90% | 96.88%  |
+| Max Drawdown  | 18.10%  | 13.04%  |
+| CAGR          | 17.54%  | 14.52%  |
+| Sharpe        | 0.97543 | 0.93255 |
+| Sortino       | 1.43594 | 1.32703 |
+
+##### 2018 - YTD (12/16/2019) (60d lookback, 5d rebalance)
+
+| Method        | Value   | OEF     |
+| ------------- | ------- | ------- |
+| Total Returns | 33.29%  | 22.65%  |
+| Max Drawdown  | 20.20%  | 19.41%  |
+| CAGR          | 13.88%  | 11.03%  |
+| Sharpe        | 0.66737 | 0.53051 |
+| Sortino       | 0.94469 | 0.71488 |

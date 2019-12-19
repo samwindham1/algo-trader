@@ -6,3 +6,4 @@ tools/log/log
 .ipynb_checkpoints
 .vscode
 .pylintrc
+fast_arrow_auth.json
