@@ -1,1 +1,1 @@
-from . import BaseStrategy, BuyAndHold, CrossOver, LeveragedEtfPair, WeightedHold
+from . import BaseStrategy, BuyAndHold, CrossOver, MeanReversion, LeveragedEtfPair, WeightedHold
