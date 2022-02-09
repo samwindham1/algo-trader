@@ -1,1 +1,1 @@
-from . import info
+from . import info, test_info

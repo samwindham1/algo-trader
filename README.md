@@ -1,4 +1,4 @@
-# Finance
+# Aglo Trader
 
 ## Intro
 

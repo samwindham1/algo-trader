@@ -5,6 +5,7 @@ import importlib
 import dateutil.parser
 
 import pandas as pd
+import numpy as np
 
 # Import the backtrader platform
 import backtrader as bt
@@ -24,9 +25,6 @@ def clean_tickers(tickers, start, end):
             out_tickers.append(ticker)
         else:
             print('Data out of date range:', ticker)
-
-        if d.head(1).index[0] > start:
-            print('Check data:', ticker)
 
     return out_tickers
 
@@ -54,10 +52,7 @@ def run_strategy(strategy, tickers=None, start='1900-01-01', end='2100-01-01', c
     )
 
     # Add a strategy
-    if kwargs:
-        cerebro.addstrategy(strategy, kwargs=kwargs)
-    else:
-        cerebro.addstrategy(strategy)
+    cerebro.addstrategy(strategy, verbose=verbose)
 
     # Set up data feed
     for ticker in tickers:
@@ -67,6 +62,7 @@ def run_strategy(strategy, tickers=None, start='1900-01-01', end='2100-01-01', c
             fromdate=start_date,
             todate=end_date,
             reverse=False,
+            adjclose=False,
             plot=not plotreturns)
 
         cerebro.adddata(data)
@@ -81,45 +77,52 @@ def run_strategy(strategy, tickers=None, start='1900-01-01', end='2100-01-01', c
         cerebro.addobserver(observers.Value)
 
     # Add analyzers
-    if verbose:
-        cerebro.addanalyzer(bt.analyzers.SharpeRatio,
-                            riskfreerate=strategy.params.riskfreerate,
-                            timeframe=TimeFrame.Days,
-                            annualize=True)
-        cerebro.addanalyzer(analyzers.Sortino,
-                            riskfreerate=strategy.params.riskfreerate,
-                            timeframe=TimeFrame.Days,
-                            annualize=True)
-        cerebro.addanalyzer(bt.analyzers.Returns)
-        cerebro.addanalyzer(bt.analyzers.DrawDown)
+    cerebro.addanalyzer(bt.analyzers.SharpeRatio,
+                        riskfreerate=strategy.params.riskfreerate,
+                        timeframe=TimeFrame.Days,
+                        annualize=True)
+    cerebro.addanalyzer(analyzers.Sortino,
+                        riskfreerate=strategy.params.riskfreerate,
+                        timeframe=TimeFrame.Days,
+                        annualize=True)
+    cerebro.addanalyzer(bt.analyzers.Returns)
+    cerebro.addanalyzer(bt.analyzers.DrawDown)
+    cerebro.addanalyzer(bt.analyzers.PositionsValue)
+    cerebro.addanalyzer(bt.analyzers.GrossLeverage)
 
     # Run backtest
-    results = cerebro.run()
+    results = cerebro.run(preload=False)
 
+    # Print results
     start_value = cash
     end_value = cerebro.broker.getvalue()
     print('Starting Portfolio Value:\t{:.2f}'.format(cash))
     print('Final Portfolio Value:\t\t{:.2f}'.format(end_value))
 
+    # Get analysis results
+    drawdown = results[0].analyzers.drawdown.get_analysis()['max']['drawdown']
+    cagr = results[0].analyzers.returns.get_analysis()['rnorm100']
+    sharpe = results[0].analyzers.sharperatio.get_analysis()['sharperatio']
+    sortino = results[0].analyzers.sortino.get_analysis()['sortino']
+    positions = results[0].analyzers.positionsvalue.get_analysis()
+    avg_positions = np.mean([sum(d != 0.0 for d in i) for i in positions.values()])
+    leverage = results[0].analyzers.grossleverage.get_analysis()
+    avg_leverage = np.mean([abs(i) for i in leverage.values()])
+
+    sharpe = 'None' if sharpe is None else round(sharpe, 5)
+    print('ROI:\t\t{:.2f}%'.format(100.0 * ((end_value / start_value) - 1.0)))
+    analyzer_results = []
+    analyzer_results.append('Max Drawdown:\t{:.2f}'.format(drawdown))
+    analyzer_results.append('CAGR:\t\t{:.2f}'.format(cagr))
+    analyzer_results.append('Sharpe:\t\t{}'.format(sharpe))
+    analyzer_results.append('Sortino:\t{:.5f}'.format(sortino))
+    analyzer_results.append('Positions:\t{:.5f}'.format(avg_positions))
+    analyzer_results.append('Leverage:\t{:.5f}'.format(avg_leverage))
+    print('\n'.join(analyzer_results))
+
     # Plot results
     if plot:
         cerebro.plot()
-
-    # Get analysis results
-    if verbose:
-        drawdown = results[0].analyzers.drawdown.get_analysis()['max']['drawdown']
-        cagr = results[0].analyzers.returns.get_analysis()['rnorm100']
-        sharpe = results[0].analyzers.sharperatio.get_analysis()['sharperatio']
-        sortino = results[0].analyzers.sortino.get_analysis()['sortino']
-
-        sharpe = 'None' if sharpe is None else round(sharpe, 5)
-        print('ROI:\t\t{:.2f}%'.format(100.0 * ((end_value / start_value) - 1.0)))
-        analyzer_results = []
-        analyzer_results.append('Max Drawdown:\t{:.2f}'.format(drawdown))
-        analyzer_results.append('CAGR:\t\t{:.2f}'.format(cagr))
-        analyzer_results.append('Sharpe:\t\t{}'.format(sharpe))
-        analyzer_results.append('Sortino:\t{:.5f}'.format(sortino))
-        print('\n'.join(analyzer_results))
 
 
 if __name__ == '__main__':

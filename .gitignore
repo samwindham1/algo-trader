@@ -2,6 +2,9 @@ config.local.json
 __pycache__
 data/price/
 data/info/*.p
+data/info/us*.csv
+data/info/ncav.csv
+data/info/*.xlsx
 tools/log/log
 .ipynb_checkpoints
 .vscode

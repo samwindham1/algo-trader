@@ -1,0 +1,72 @@
+IndustryId;Sector;Industry
+100001;Industrials;"Industrial Products"
+100002;Industrials;"Business Services"
+100003;Industrials;"Engineering & Construction"
+100004;Industrials;"Waste Management"
+100005;Industrials;"Industrial Distribution"
+100006;Industrials;Airlines
+100007;Industrials;"Consulting & Outsourcing"
+100008;Industrials;"Aerospace & Defense"
+100009;Industrials;"Farm & Construction Machinery"
+100010;Industrials;"Transportation & Logistics"
+100011;Industrials;"Employment Services"
+100012;Industrials;"Truck Manufacturing"
+100013;Industrials;Conglomerates
+101001;Technology;"Computer Hardware"
+101002;Technology;"Online Media"
+101003;Technology;"Application Software"
+101004;Technology;Semiconductors
+101005;Technology;"Communication Equipment"
+102001;"Consumer Defensive";"Retail - Defensive"
+102002;"Consumer Defensive";"Consumer Packaged Goods"
+102003;"Consumer Defensive";"Tobacco Products"
+102004;"Consumer Defensive";"Beverages - Alcoholic"
+102005;"Consumer Defensive";"Beverages - Non-Alcoholic"
+102006;"Consumer Defensive";Education
+103001;"Consumer Cyclical";Entertainment
+103002;"Consumer Cyclical";"Retail - Apparel & Specialty"
+103003;"Consumer Cyclical";Restaurants
+103004;"Consumer Cyclical";"Manufacturing - Apparel & Furniture"
+103005;"Consumer Cyclical";Autos
+103011;"Consumer Cyclical";"Advertising & Marketing Services"
+103013;"Consumer Cyclical";"Homebuilding & Construction"
+103015;"Consumer Cyclical";"Travel & Leisure"
+103018;"Consumer Cyclical";"Packaging & Containers"
+103020;"Consumer Cyclical";"Personal Services"
+103026;"Consumer Cyclical";Publishing
+104001;"Financial Services";"Asset Management"
+104002;"Financial Services";Banks
+104003;"Financial Services";"Brokers & Exchanges"
+104004;"Financial Services";"Insurance - Life"
+104005;"Financial Services";Insurance
+104006;"Financial Services";"Insurance - Property & Casualty"
+104007;"Financial Services";"Credit Services"
+104013;"Financial Services";"Insurance - Specialty"
+105001;Utilities;"Utilities - Regulated"
+105002;Utilities;"Utilities - Independent Power Producers"
+106001;Healthcare;"Medical Diagnostics & Research"
+106002;Healthcare;Biotechnology
+106003;Healthcare;"Medical Instruments & Equipment"
+106004;Healthcare;"Medical Devices"
+106005;Healthcare;"Drug Manufacturers"
+106006;Healthcare;"Health Care Plans"
+106011;Healthcare;"Health Care Providers"
+106014;Healthcare;"Medical Distribution"
+107001;Energy;"Oil & Gas - Refining & Marketing"
+107002;Energy;"Oil & Gas - E&P"
+107003;Energy;"Oil & Gas - Midstream"
+107004;Energy;"Oil & Gas - Services"
+107005;Energy;"Oil & Gas - Integrated"
+107006;Energy;"Oil & Gas - Drilling"
+108001;"Business Services";"Communication Services"
+108002;"Business Services";Consulting
+109001;"Real Estate";REITs
+109002;"Real Estate";"Real Estate Services"
+110001;"Basic Materials";Chemicals
+110002;"Basic Materials";"Forest Products"
+110003;"Basic Materials";Agriculture
+110004;"Basic Materials";"Metals & Mining"
+110005;"Basic Materials";"Building Materials"
+110006;"Basic Materials";Coal
+110007;"Basic Materials";Steel
+111001;Other;"Diversified Holdings"

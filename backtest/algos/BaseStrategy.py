@@ -8,19 +8,22 @@ class Strategy(bt.Strategy):
 
     params = {
         'riskfreerate': 0.035,
-        'cheat_on_open': False
+        'cheat_on_open': False,
+        'verbose': False
     }
 
-    def __init__(self):
+    def __init__(self, kwargs=None):
         bt.Strategy.__init__(self)
         self.order = None
         self.buyprice = None
         self.buycomm = None
         self.order_rejected = False
+        self.verbose = self.params.verbose
 
     def log(self, txt, date=None):
-        date = date or self.data.datetime.date(0)
-        print('{}, {}'.format(date.isoformat(), txt))
+        if self.verbose:
+            date = date or self.data.datetime.date(0)
+            print('{}, {}'.format(date.isoformat(), txt))
 
     def notify_order(self, order):
         if order.status in [order.Submitted, order.Accepted]:

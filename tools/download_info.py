@@ -38,7 +38,7 @@ if __name__ == '__main__':
     tickers = pd.read_csv(ticker_csv_path, header=None)[1]
 
     print('---- DOWNLOADING ----')
-    info_dict = download_info(tickers)
+    info_dict = download_all_info(tickers)
     print('---- SAVING ----')
     save_info(info_dict)
 

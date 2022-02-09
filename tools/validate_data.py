@@ -20,9 +20,10 @@ def validate(tickers):
             if (d.dtypes == object).any():
                 print_err(ticker, '(bad dtype)')
 
-            if (d['Adj Close'] == 0).any():
+            if (abs(d['Adj Close']) <= 1E-8).any():
                 print_err(ticker, '(0 Adj Close)')
-                zero_values = d['Adj Close'] == 0
+                zero_values = abs(d['Adj Close']) <= 1E-8
+                print(d.loc[zero_values])
                 d.loc[zero_values, 'Adj Close'] = d.loc[zero_values, 'Close']
                 write_data = True
 
