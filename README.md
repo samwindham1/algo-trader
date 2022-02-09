@@ -6,12 +6,56 @@ This is my repo for backtesting algorithmic trading strategies.
 
 Implemented with Backtrader in Python.
 
+## Run a backtest
+
+```
+python -m backtest.run BuyAndHold -t SPY -s 2010
+```
+
+### Syntax:
+
+```
+backtest.run <strategy> -t <tickers list> ...
+```
+
+### Arguments:
+
+| Arg          | Flag           | Possible Values             | Description                                                                                 |
+| ------------ | -------------- | --------------------------- | ------------------------------------------------------------------------------------------- |
+| strategy     |                | BuyAndHold, CrossOver, etc. | Choose from the list of algorithms in the ./backtest/algos/. The arg value is the filename. |
+| tickers      | -t, --tickers  | SPY, AAPL, etc.             | A list of tickers to use.                                                                   |
+| universe     | -u, --universe | sp500, faang, etc.          | Find the list of uniuverses in ./backtest/utils/universe.py                                 |
+| start        | -s, --start    | 2010, 2010-01-01            | Starting date of the backtest                                                               |
+| end          | -e, --end      | 2022, 2021-12-31            | End date for backtest                                                                       |
+| cash         | --cash         | 100000                      | Starting cash balance                                                                       |
+| verbose      | -v, --verbose  |                             | Show verbose details of all trades                                                          |
+| plot         | -p, --plot     |                             | Show the full plot                                                                          |
+| plot returns | --plotreturns  |                             | Only plot the returns                                                                       |
+| kwargs       | -k, --kwargs   |                             | Additional arguments to pass through to the strategy                                        |
+
+## Tools
+
+```
+python -m tools.download_prices -t SPY
+```
+
+| Tool            | Description                                                                                                            |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| download_info   | Download fundamental data                                                                                              |
+| download_prices | Download price history for specified tickers. If no tickers given, defaults to download all tickers in SP500           |
+| update_prices   | Updates newest price data and appends to the end of the downloaded file (Use this once you've already downloaded data) |
+| plot            | Plot price for specified tickers                                                                                       |
+| validate_data   | Cleans up and validates price data                                                                                     |
+| stats           | Get statistical data of ticker                                                                                         |
+| etc.            | You can follow this format and try out the other tools as well. They can all be imported too.                          |
+
 ## Current Implemented Strategies
 
-- Buy and Hold (`BuyAndHold.py`)
-- Simple Moving Average Cross-Over (`CrossOver.py`)
-- Leveraged ETF Pairs (`LeveragedEtfPair.py`)
-- Pair Switching (`PairSwitching.py`)
+-   Buy and Hold (`BuyAndHold.py`)
+-   Simple Moving Average Cross-Over (`CrossOver.py`)
+-   Leveraged ETF Pairs (`LeveragedEtfPair.py`)
+-   Pair Switching (`PairSwitching.py`)
+-   Mean reversion (`MeanReversion.py`)
 
 ### Notes:
 
@@ -59,8 +103,8 @@ This strategy has been successful for the S&P 100 stocks.
 
 [Quantopian: Enhancing short term mean reversion strategies](https://www.quantopian.com/posts/enhancing-short-term-mean-reversion-strategies-1)
 
-- Filter out large 1-day news-realted moves
-  - (Sort by 5d standard-deviation of returns)
+-   Filter out large 1-day news-realted moves
+    -   (Sort by 5d standard-deviation of returns)
 
 Backtest results:
 
